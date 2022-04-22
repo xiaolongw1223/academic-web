@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Xiaolong Wei
+title: Xiaolong Wei good
 
 # Is this the primary user of the site?
 superuser: true
