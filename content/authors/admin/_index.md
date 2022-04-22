@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Xiaolong Wei
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Professor of Geophysics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
+- name: University of Houston
   url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
@@ -57,7 +57,7 @@ social:
   link: https://www.linkedin.com/
 
 # Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
+# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
