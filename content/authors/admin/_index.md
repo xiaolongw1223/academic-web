@@ -6,7 +6,7 @@ title: Xiaolong Wei
 superuser: true
 
 # Role/position/tagline
-role: Professor of Geophysics
+role: PhD of Geophysics
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,7 +14,7 @@ organizations:
   url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include xxxxxxxxxx.
 
 # Interests to show in About widget
 interests:
