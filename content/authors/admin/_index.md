@@ -18,17 +18,17 @@ bio: My research interests include xxxxxxxxxx.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- xxxxx
+- aaaaa
+- ddddddd
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
+  - course: PhD in ddddd
     institution: Stanford University
     year: 2012
-  - course: MEng in Artificial Intelligence
+  - course: MEng in gggggg
     institution: Massachusetts Institute of Technology
     year: 2009
   - course: BSc in Artificial Intelligence
