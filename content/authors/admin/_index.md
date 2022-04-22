@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Xiaolong Wei vvvvv
+title: Xiaolong Wei
 
 # Is this the primary user of the site?
 superuser: true
@@ -18,17 +18,18 @@ bio: My research interests include xxxxxxxxxx.
 
 # Interests to show in About widget
 interests:
-- xxxxx
 - aaaaa
-- ddddddd
+- bbbbb
+- ccccc
+- ddddd
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in ddddd
+  - course: PhD in aaaaa
     institution: UH
     year: 2012
-  - course: MEng in gggggg
+  - course: MEng in bbbbb
     institution: NWU
     year: 2009
   - course: BSc in Artificial Intelligence
@@ -70,7 +71,7 @@ email: ""
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Xiaolong Wei is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
