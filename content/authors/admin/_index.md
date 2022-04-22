@@ -6,11 +6,11 @@ title: Xiaolong Wei good
 superuser: true
 
 # Role/position/tagline
-role: PhD of Geophysics
+role: PhD of Geophysics good
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of Houston
+- name: University of Houston good
   url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
