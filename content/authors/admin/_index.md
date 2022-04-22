@@ -26,13 +26,13 @@ interests:
 education:
   courses:
   - course: PhD in ddddd
-    institution: Stanford University
+    institution: UH
     year: 2012
   - course: MEng in gggggg
-    institution: Massachusetts Institute of Technology
+    institution: NWU
     year: 2009
   - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+    institution: CUGB
     year: 2008
 
 # Social/Academic Networking
