@@ -26,19 +26,19 @@ subtitle = ""
     tag = "*"
 
   [[content.filter_button]]
-    name = "Joint inversion"
+    name = "Joint Inversion"
     tag = "joint"
 
   [[content.filter_button]]
-    name = "Uncertainty analysis"
+    name = "Uncertainty Analysis"
     tag = "uncertainty"
 
   [[content.filter_button]]
-    name = "Natural resources exploration"
-    tag = "exploration"
+    name = "Geology Differentiation"
+    tag = "differentiation"
 
   [[content.filter_button]]
-    name = "Data driven modeling"
+    name = "Machine/Deep Learning"
     tag = "data"
 
   [[content.filter_button]]
