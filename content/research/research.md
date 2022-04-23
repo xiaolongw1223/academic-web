@@ -26,12 +26,24 @@ subtitle = ""
     tag = "*"
 
   [[content.filter_button]]
-    name = "Earth's Deep Interior"
-    tag = "Earth Deep Interior"
+    name = "Joint inversion"
+    tag = "joint"
 
   [[content.filter_button]]
-    name = "Seismic Sources"
-    tag = "Seismic Sources"
+    name = "Uncertainty analysis"
+    tag = "uncertainty"
+
+  [[content.filter_button]]
+    name = "Natural resources exploration"
+    tag = "exploration"
+
+  [[content.filter_button]]
+    name = "Data driven modeling"
+    tag = "data"
+
+  [[content.filter_button]]
+    name = "Others"
+    tag = "other"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -74,4 +86,3 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-
