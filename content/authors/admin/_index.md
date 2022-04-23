@@ -16,12 +16,12 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: I am pursuing my Ph.D. degree in geophysics at University of Houston
 
-# Interests to show in About widget
-interests:
-- Joint Inversion
-- Uncertainty Analysis
-- Geology Differentiation
-- Machine/Deep Learning
+# # Interests to show in About widget
+# interests:
+# - Joint Inversion
+# - Uncertainty Analysis
+# - Geology Differentiation
+# - Machine/Deep Learning
 
 # # Education to show in About widget
 # education:
@@ -74,4 +74,8 @@ I am pursuing my Ph.D. degree in geophysics, in the [Department of Earth and Atm
 
 Due to a burgeoning human population, growing needs for natural resources as well as concerns about global food security, climate changes and natural hazards, it is significant, probably urgent, to more fully integrate geoscientific observations and understand Earth subsurface systems for a sustainable management of our planet.
 
-My research interests resolve around the theme of integrated Earth modeling and uncertainty analysis to investigate and monitor various subsurface systems. My research interdisciplinarily utilizes, though by far not all, optimization, Monte Carlo, geostatistics, pattern recognition and mineralogy. I am currently working on joint inversion and uncertainty quantification using potential field (i.e., gravity, gradiometry and magnetic) and petrophysical (i.e., rock samples and drillhole) data, primarily applied to [critical mineral](https://www.usgs.gov/news/national-news-release/us-geological-survey-releases-2022-list-critical-minerals#:~:text=The%20Energy%20Act%20of%202020%20defines%20a%20%E2%80%9Ccritical%20mineral%E2%80%9D%20as,supply%20chain%20vulnerable%20to%20disruption.) explorations.
+My research interests resolve around the theme of integrated Earth modeling and uncertainty analysis to investigate and monitor various subsurface systems. My research interdisciplinarily utilizes, though by far not all, optimization, Monte Carlo, geostatistics, pattern recognition and mineralogy. I am currently working on joint inversion and uncertainty quantification using potential field (i.e., gravity, gradiometry and magnetic) and petrophysical (i.e., rock samples and drillhole) data, primarily applied to the [critical mineral](https://www.usgs.gov/news/national-news-release/us-geological-survey-releases-2022-list-critical-minerals#:~:text=The%20Energy%20Act%20of%202020%20defines%20a%20%E2%80%9Ccritical%20mineral%E2%80%9D%20as,supply%20chain%20vulnerable%20to%20disruption.) explorations.
+
+**Methodology Research:** a. Joint Inversion, b. Uncertainty Analysis, c. Geology Differentiation
+
+**Application Research:** a. Natural Resources Exploration, b. Machine/Deep Learning, c. Geophysical Data Acquisition
