@@ -17,14 +17,14 @@ title: Curriculum Vitae
 
 ---
 
-### Employment
+### Professional Appointments
 
 - **2018/08–present**: Research Assistant,
   [University of Houston](https://uh.edu/nsm/earth-atmospheric/), Houston, USA
 
 ---
 
-### Professional Activities \& Affiliations
+### Professional Service \& Affiliations
 
 - **2022-present**: Peer-reviewer for [*Geocarto International*](https://www.tandfonline.com/journals/tgei20) and [SEG Annual Meeting](https://seg.org/)
 - **2021-present**: Peer-reviewer for [*Geophysics*](https://library.seg.org/journal/gpysa7), [*Geophysical Journal International*](https://academic.oup.com/gji), [*IEEE Transactions on Geoscience and Remote Sensing*](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36) and [*Acta Geophysica*](https://www.springer.com/journal/11600)

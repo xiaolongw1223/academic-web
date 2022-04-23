@@ -26,11 +26,14 @@ interests:
 education:
   courses:
   - course: Ph.D. in Geophysics
-    institution: University of Science and Technology of China
+    institution: University of Houston, USA
+    year: Present
+  - course: M.S. in Geology
+    institution: Northwest University, China
     year: 2018
-  - course: BSc in Geophysics
-    institution: University of Science and Technology of China
-    year: 2012
+  - course: B.S. in Geophysics
+    institution: China University of Geosciences (Beijing)
+    year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -66,4 +69,4 @@ email: ""
 highlight_name: true
 ---
 
-Xiaolong Wei is 
+Xiaolong Wei is
