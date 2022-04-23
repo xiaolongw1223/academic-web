@@ -78,4 +78,4 @@ My research interests resolve around the theme of integrated Earth modeling and 
 
 **Methodology Research:** a. Joint Inversion, b. Uncertainty Analysis, c. Geology Differentiation
 
-**Application Research:** a. Natural Resources Exploration, b. Machine/Deep Learning, c. Geophysical Data Acquisition
+**Application Research:** a. Natural Resources Exploration, b. Machine/Deep Learning
