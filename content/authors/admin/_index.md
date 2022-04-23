@@ -66,20 +66,4 @@ email: ""
 highlight_name: true
 ---
 
-Xiaolong Wei is a seismologist. His research is directed toward understanding
-the structure of the Earth's deep interior,
-mechanisms of seismic sources (e.g., microseismic, explosions, and collapse),
-and seismic wave propagation in complex media.
-
-He received his Ph.D. degree in Geophysics from
-[University of Science and Technology of China](http://en.ustc.edu.cn/) in 2018,
-advised by [Prof. Lianxing Wen](http://geophysics.geo.sunysb.edu/wen/).
-After that, he was a Postdoctoral Research Associate at
-[Michigan State University](https://msu.edu/),
-collaborating with Prof. [Songqiao Shawn Wei](https://sites.google.com/a/msu.edu/swei/).
-Now he is an Associate Professor at [China University of Geosciences](https://en.cug.edu.cn).
-
-He is also a big fan of open-source and serves as a core developer of the
-{{< icon name="terminal" pack="fas" >}} [Generic Mapping Tools (GMT)](https://www.generic-mapping-tools.org/),
-a widely-used software for processing and visualizing geophysical data in Earth Science,
-and its Python wrapper, {{< icon name="python" pack="fab" >}}[PyGMT](https://www.pygmt.org/).
+Xiaolong Wei is 
