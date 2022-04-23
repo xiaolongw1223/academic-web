@@ -29,8 +29,8 @@ title: Curriculum Vitae
 - **2022-present**: Peer-reviewer for [*Geocarto International*](https://www.tandfonline.com/journals/tgei20) and [SEG Annual Meeting](https://seg.org/)
 - **2021-present**: Peer-reviewer for [*Geophysics*](https://library.seg.org/journal/gpysa7), [*Geophysical Journal International*](https://academic.oup.com/gji), [*IEEE Transactions on Geoscience and Remote Sensing*](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36) and [*Acta Geophysica*](https://www.springer.com/journal/11600)
 - **2021**: Session Chair for MG P1: New Methods and Case Histories 1 in 1st International Meeting for Applied Geoscience \& Energy (IMAGE)
-- **2020-present**: Member of the European Association of Geoscientists \& Engineers (EAGE) and American Geophysical Union (AGU)
-- **2018-present**: Member of the Society of Exploration Geophysicists (SEG)
+- **2020-present**: Member of the European Association of Geoscientists \& Engineers ([EAGE](https://eage.org/)) and American Geophysical Union ([AGU](https://www.agu.org/))
+- **2018-present**: Member of the Society of Exploration Geophysicists ([SEG](https://seg.org/))
 
 ---
 
@@ -57,8 +57,8 @@ title: Curriculum Vitae
 ---
 
 ### Teaching Experiences
-- **2020:** GEOL7330: *Potential Field Methods of Geophysical Exploration* (graduate core course), guest lecturer, University of Houston
-- **2019:** GEOL7330: *Geophysical Field Camp*, teaching assistant, University of Houston
+- **2020:** GEOL7330: Potential Field Methods of Geophysical Exploration (graduate core course), guest lecturer, University of Houston
+- **2019:** GEOL7330: Geophysical Field Camp, teaching assistant, University of Houston
 
 
 ---
