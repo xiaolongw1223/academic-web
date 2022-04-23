@@ -10,7 +10,7 @@ header:
 ### 2022
 
 - **04/07**:
-  Xiaolong and his best half - Yuteng were blessed with the arrival of a baby.
+  Xiaolong and his best half - Yuteng were blessed with the arrival of their first baby.
 
 - **03/13**:
   Congratulations to Xiaolong for receiveing the Best Student Paper Award and the Best Paper Award (co-authored) from the SEG Mining Committee for his work presented at 2021 SEG Annual Meeting.
@@ -33,7 +33,7 @@ header:
   We developed an empirical method to analyze uncertainty of 3D inversion in the deterministic framework. Xiaolong published his first mansucript on [Geophysics](https://library.seg.org/doi/abs/10.1190/geo2020-0672.1).
 
 - **05/29**:
-  Xiaolong was awarded SEG [John R. Butler Jr. Scholarship](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://seg.org/Portals/0/SEG/Professional%20Development/Students/ScholarshipsRecipients_21_22.pdf).
+  Xiaolong was awarded SEG [John R. Butler Jr. Scholarship](https://seg.org/Education/Student/Student-Opportunities/Scholarships/List-of-scholarship-recipients).
 
 ### 2020
 
