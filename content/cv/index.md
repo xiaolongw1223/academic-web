@@ -2,70 +2,70 @@
 title: Curriculum Vitae
 ---
 
-[{{< icon name="file-pdf" pack="fas" >}}Download my full CV here](/uploads/Dongdong_Tian_CV.pdf).
+[{{< icon name="file-pdf" pack="fas" >}}Download my full CV here](https://github.com/xiaolongw1223/cv-plus/blob/main/xiaolong_wei_cv_english.pdf).
 
 ---
 
 ### Education
 
-- **2018**: Ph.D in Geophysics,
-  [University of Science and Technology of China](http://en.ustc.edu.cn/), Hefei, China
-- **2012**: B.S. in Geophysics,
-  [University of Science and Technology of China](http://en.ustc.edu.cn/), Hefei, China
+- **Present**: Ph.D. in Geophysics,
+  [University of Houston](https://uh.edu/nsm/earth-atmospheric/), Houston, USA
+- **2018**: M.S. in Geology,
+  [Northwest University](https://www.nwu.edu.cn/), Xi'an, China
+- **2015**: B.S. in Geophysics,
+  [China University of Geosciences](https://www.cugb.edu.cn/), Beijing, China
 
 ---
 
 ### Employment
 
-- **2021/11–present**: Associate Professor,
-					   [China University of Geosciences](https://en.cug.edu.cn), Wuhan, China
-- **2018/08–2021/09**: Postdoctoral Research Associate,
-					   [Michigan State University](https://msu.edu/), East Lansing, US
+- **2018/08–present**: Research Assistant,
+  [University of Houston](https://uh.edu/nsm/earth-atmospheric/), Houston, USA
 
 ---
 
-### Professional Societies & Services
+### Professional Activities \& Affiliations
 
-- Member of the [American Geophysical Union (AGU)](https://sites.agu.org/) (2012–present)
-- Peer-reviewer of scientific journals:
-  *Geophysical Research Letters*,
-  *Seismological Research Letters*,
-  *Review of Scientific Instruments*,
-  *Journal of Open Source Software*,
-  *Results of Geophysical Sciences*
-- Founder of the [SeisMan blog](https://blog.seisman.info) (since 2013),
-  [GMT China Community](http://gmt-china.org/) (since 2016) and
-  [seismo‑learn](https://seismo-learn.org/) (since 2020)
-- Core developer of the [Generic Mapping Tools (GMT)](https://www.generic-mapping-tools.org/)
-  and [PyGMT](https://www.pygmt.org/) (2018–present)
-- Research Assistant and database manager for [China Seismological Reference Model](http://chinageorefmodel.org/) (2016–2018)
-- Judge for the Outstanding Student Paper Award, AGU Fall Meeting (2018–2019)
-- Instructor for the UNAVCO Short Course "The Generic Mapping Tools for Geodesy" (2019–2021)
-- Instructor for the Workshop SCIWS4: [Become a Generic Mapping Tools Contributor Even If You Can't Code](https://www.agu.org/Events/SCIWS4-Generic-Mapping-Tools), 2019 AGU Fall Meeting (2019)
+- **2022-present**: Peer-reviewer for [*Geocarto International*](https://www.tandfonline.com/journals/tgei20) and [SEG Annual Meeting](https://seg.org/)
+- **2021-present**: Peer-reviewer for [*Geophysics*](https://library.seg.org/journal/gpysa7), [*Geophysical Journal International*](https://academic.oup.com/gji), [*IEEE Transactions on Geoscience and Remote Sensing*](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36) and [*Acta Geophysica*](https://www.springer.com/journal/11600)
+- **2021**: Session Chair for MG P1: New Methods and Case Histories 1 in 1st International Meeting for Applied Geoscience \& Energy (IMAGE)
+- **2020-present**: Member of the European Association of Geoscientists \& Engineers (EAGE) and American Geophysical Union (AGU)
+- **2018-present**: Member of the Society of Exploration Geophysicists (SEG)
 
 ---
 
 ### Awards & Honors
 
-- **2021:** One Hundred Talents Program, China University of Geosciences, China
-- **2018:** President Award, Chinese Academy of Science, China
-- **2018:** Outstanding Graduate Student, University of Science and Technology of China, China
-- **2017:** Outstanding Student Paper Award, 2017 Annual Meeting of Chinese Geoscience Union, China
-- **2017:** National Scholarship for Doctoral Students, Ministry of Education, China
-- **2014:** Kwang-Hua Scholarship, Kwang-Hua Education Foundation, China
-- **2010:** Kwang-Hua Scholarship, Kwang-Hua Education Foundation, China
-- **2009:** Outstanding Volunteer, University of Science and Technology of China, China
+#### University of Houston
+
+- **2021:** Student Research Funding (paid directly to student), University of Houston, Houston, USA
+- **2021:** Student Travel Award, University of Houston, Houston, USA
+- **2020-2021:** Outstanding Academic Achievement, University of Houston, Houston, USA (x2)
+
+#### SEG
+
+- **2022:** The Best Paper in the Mining Sessions at 2021 SEG Annual Meeting, Denver, CO, USA (co-author)
+- **2022:** The Best Student Paper in the Mining Sessions at 2021 SEG Annual Meeting, Denver, CO, USA
+- **2021:** SEG Technical Program Registration Grant
+- **2021:** SEG [John R. Butler Jr. Scholarship](https://seg.org/Education/Student/Student-Opportunities/Scholarships/List-of-scholarship-recipients)
+- **2021:** The Best Poster in the Mining Sessions at 2020 SEG Annual Meeting, Online
+
+#### others
+- **2016-2018:** The First Prize Scholarship, Northwest University, Xi'an, China (x3)
+- **2015:** The Best Bachelor Thesis, China University of Geosciences, Beijing, China
 
 ---
 
-### Funds
+### Teaching Experiences
+- **2020:** GEOL7330: *Potential Field Methods of Geophysical Exploration* (graduate core course), guest lecturer, University of Houston
+- **2019:** GEOL7330: *Geophysical Field Camp*, teaching assistant, University of Houston
 
-- Startup, CUG One Hundred Talents Program, $280k (2021–2026)
 
 ---
 
-### Field Experience
+### Certifications
 
-- **LEEP** (**L**ake **E**rie **E**arthquake ex**P**eriment),
-  install 8 broadband seismic stations around Lake Erie,
-  Oct. 10–16, 2018
+- **2021:** FAA Part 107 Knowledge Test Prep for Drone Pilots through Udemy, Inc.
+- **2021:** ISInProG@Lario - 2021 International School on Inverse Problems in Geophysics on the shore of the Lario Lake
+- **2021:** Magnetotellurics (MT) short course given by Dr. Alan G. Jones
+- **2018:** Certificate signed by Prof. Andrew Ng upon successfully completing the online machine learning course provided by Stanford University through Coursera, Inc.
