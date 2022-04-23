@@ -18,9 +18,10 @@ bio: I am pursuing my Ph.D. degree in geophysics at University of Houston
 
 # Interests to show in About widget
 interests:
-- a
-- b
-- c
+- Joint Inversion
+- Uncertainty Analysis
+- Geology Differentiation
+- Machine/Deep Learning
 
 # # Education to show in About widget
 # education:
@@ -69,8 +70,8 @@ email: ""
 highlight_name: true
 ---
 
-I am pursuing my Ph.D. degree in geophysics, in the Department of Earth and Atmospheric Sciences at University of Houston. I obtained my M.S. in geology in 2018 from Northwest University, Xi'an, China, and B.S. in geophysics in 2015 from China University of Geosciences in Beijing.
+I am pursuing my Ph.D. degree in geophysics, in the [Department of Earth and Atmospheric Sciences](https://uh.edu/nsm/earth-atmospheric/) at University of Houston. I obtained my M.S. in geology in 2018 from [Northwest University](https://www.nwu.edu.cn/), Xi'an, China, and B.S. in geophysics in 2015 from [China University of Geosciences](https://www.cugb.edu.cn/) in Beijing.
 
-In 21 century, population growth and climate change create urgent & challenging geoscience problems from sustainable management of natural resources (e.g. groundwater and critical minerals) to monitoring contaminants and natural hazards (e.g. landslides). Dynamics of all these problems are related to the properties and processes of the Earth’s subsurface, and therefore seeing below the subsurface is a fundamental knowledge required to solve (or help solve) these problems that we faced. My research focuses on advancing Earth Imaging techniques, which utilizes various types of sensors (e.g., ground-based, airborne, satellites) to measure data and images Earth’s subsurface from the data. In order to advance these imaging techniques, I use
+Due to a burgeoning human population, growing needs for natural resources as well as concerns about global food security, climate changes and natural hazards, it is significant, probably urgent, to more fully integrate geoscientific observations and understand Earth subsurface systems for a sustainable management of our planet.
 
-My research interests resolve around the theme of inverse modeling for various subsurface systems. I currently focuse on joint inversion and uncertainty analysis using potential field and petrophysical data, primarily applied to critical mineral exploration.
+My research interests resolve around the theme of integrated Earth modeling and uncertainty analysis to investigate and monitor various subsurface systems. My research interdisciplinarily utilizes, though by far not all, optimization, Monte Carlo, geostatistics, pattern recognition and mineralogy. I am currently working on joint inversion and uncertainty quantification using potential field (i.e., gravity, gradiometry and magnetic) and petrophysical (i.e., rock samples and drillhole) data, primarily applied to [critical mineral](https://www.usgs.gov/news/national-news-release/us-geological-survey-releases-2022-list-critical-minerals#:~:text=The%20Energy%20Act%20of%202020%20defines%20a%20%E2%80%9Ccritical%20mineral%E2%80%9D%20as,supply%20chain%20vulnerable%20to%20disruption.) explorations.
