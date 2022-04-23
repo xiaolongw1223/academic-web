@@ -1,5 +1,5 @@
 ---
-title: Curriculum Vitae
+title: About Me
 ---
 
 [{{< icon name="file-pdf" pack="fas" >}}Download my full CV here](https://github.com/xiaolongw1223/cv-plus/blob/main/xiaolong_wei_cv_english.pdf).
