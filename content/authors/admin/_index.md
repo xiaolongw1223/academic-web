@@ -29,10 +29,10 @@ education:
     institution: University of Houston, USA
     year: Present
   - course: M.S. in Geology
-    institution: Northwest University, China
+    institution: Northwest University, Xi'an, China
     year: 2018
   - course: B.S. in Geophysics
-    institution: China University of Geosciences (Beijing)
+    institution: China University of Geosciences, Beijing
     year: 2015
 
 # Social/Academic Networking
