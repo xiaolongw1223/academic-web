@@ -39,7 +39,7 @@ subtitle = ""
 
   [[content.filter_button]]
     name = "Machine/Deep Learning"
-    tag = "data"
+    tag = "learning"
 
   [[content.filter_button]]
     name = "Others"
