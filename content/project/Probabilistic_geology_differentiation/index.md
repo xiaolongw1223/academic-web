@@ -1,5 +1,5 @@
 ---
-title: Probabilistic geology differentiation 
+title: Probabilistic geology differentiation
 summary: An example of using the in-built project page.
 tags:
 - uncertainty
