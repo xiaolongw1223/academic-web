@@ -9,7 +9,7 @@ date: "2016-04-27T00:00:00Z"
 external_link: ""
 
 image:
-  caption: ""
+  caption: "https://stock.adobe.com/images/natural-diamond-nestled-in-kimberlite/313933855"
   focal_point: ""
   preview_only: false
 
