@@ -1,5 +1,5 @@
 ---
-title: Uncertainty analysis of salt reconstruction
+title: Trans-dimensional gravity inversion for salt reconstruction
 summary: An example of using the in-built project page.
 tags:
 - uncertainty
