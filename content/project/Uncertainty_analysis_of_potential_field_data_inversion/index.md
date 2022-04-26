@@ -3,7 +3,8 @@ title: Uncertainty analysis of potential field data inversion
 summary: We developed an empirical method to analyze uncertainty of 3D deterministic gravity and magnetic inversions
 tags:
 - uncertainty
-date: "2020-04-01T00:00:00Z"
+date: ""
+# date: "2020-01-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

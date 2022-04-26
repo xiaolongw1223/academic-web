@@ -4,7 +4,7 @@ summary: Geology differentiation maximizes the value of joint inversion
 tags:
 - joint
 - differentiation
-date: "2019-11-01T00:00:00Z"
+date: ""
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

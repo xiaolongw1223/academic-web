@@ -4,7 +4,7 @@ summary: Model-to-model deep learning joint inversion framework using U-Net
 tags:
 - joint
 - learning
-date: "2021-09-01T00:00:00Z"
+date: ""
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

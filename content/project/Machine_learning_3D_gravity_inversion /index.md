@@ -3,7 +3,7 @@ title: Machine learning 3D gravity inversion
 summary: We developed an practical way to generate a large sequence of 3D realistic models as the training dataset in the machine/deep learning research
 tags:
 - learning
-date: "2022-04-24T00:00:00Z"
+date: ""
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
