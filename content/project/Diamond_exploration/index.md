@@ -1,6 +1,6 @@
 ---
 title: Diamond exploration
-summary: ""
+summary: Identifying Kimberlite based on the multiple geophysical responses
 tags:
 - differentiation
 date: "2016-04-27T00:00:00Z"
