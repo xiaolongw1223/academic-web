@@ -1,6 +1,6 @@
 ---
 title: Uncertainty analysis of potential field data inversion
-summary: An example of using the in-built project page.
+summary: We developed an empirical method to analyze uncertainty of 3D deterministic gravity and magnetic inversions
 tags:
 - uncertainty
 date: "2016-04-27T00:00:00Z"
