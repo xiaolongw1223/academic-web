@@ -3,7 +3,7 @@ title: Trans-dimensional gravity inversion for salt reconstruction
 summary: Investigating uncertainty of salt reconstruction using multiple prior information and sparse geometry parameterization
 tags:
 - uncertainty
-date: "2016-04-27T00:00:00Z"
+date: "2021-12-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
