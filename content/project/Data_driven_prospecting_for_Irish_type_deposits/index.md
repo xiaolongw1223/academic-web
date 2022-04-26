@@ -1,6 +1,6 @@
 ---
 title: Data driven prospecting for Irish type deposits
-summary: An example of using the in-built project page.
+summary: Employing more than 10 different geoscientific data to explore mineral deposits in Ireland
 tags:
 - learning
 date: "2016-04-27T00:00:00Z"

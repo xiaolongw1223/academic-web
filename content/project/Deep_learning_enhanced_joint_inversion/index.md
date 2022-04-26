@@ -1,6 +1,6 @@
 ---
 title: Deep learning enhanced joint inversion
-summary: An example of using the in-built project page.
+summary: Model-to-model deep learning joint inversion framework using U-Net
 tags:
 - joint
 - learning

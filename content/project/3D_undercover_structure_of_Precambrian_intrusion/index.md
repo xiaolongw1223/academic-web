@@ -1,6 +1,6 @@
 ---
 title: 3D undercover structure of Precambrian intrusion
-summary: An example of using the in-built project page.
+summary: Geology differentiation maximizes the value of joint inversion
 tags:
 - joint
 - differentiation
