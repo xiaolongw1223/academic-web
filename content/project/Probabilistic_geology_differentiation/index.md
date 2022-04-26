@@ -1,6 +1,6 @@
 ---
 title: Probabilistic geology differentiation
-summary: An example of using the in-built project page.
+summary: We proposed mixed Lp norm joint inversion framework to construct 3D probabilistic subsurface geological units
 tags:
 - uncertainty
 date: "2016-04-27T00:00:00Z"
