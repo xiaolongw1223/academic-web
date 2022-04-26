@@ -31,7 +31,7 @@ url_video: ""
 slides: ""
 ---
 
-I first heard about one of the 21 century most successful and well-known marking slogan “A Diamond Is Forever" (in Chinese "钻石恒久远, 一颗永流传") when I was in the middle school in China. I had no idea how much this slogan would affect the romantic relationships of young people until few years late when I was ready for my marriage proposal and needed to purchase a “sizeable” diamond engagement ring. The magic relation of me and diamond has not been ended yet.
+I first heard about one of the 21 century most successful and well-known marking slogan “A Diamond Is Forever" when I was in the middle school. I had no idea how much this slogan would affect the romantic relationships of young people, until few years late when I was ready for my marriage proposal and needed to purchase a “sizeable” diamond engagement ring. The magic relation of me and diamond has not been ended yet.
 
 After a couple of years, thank my Ph.D. advisor, I was pleasured to be involved into a project focusing on the diamond exploration, to be geological, identifying Kimberlite based on the multiple geophysical responses. Due to the confidential policy, we cannot reveal any result of this project. But I would like to describe our general workflow and share the one important lesson that we learned from this practical project.
 
