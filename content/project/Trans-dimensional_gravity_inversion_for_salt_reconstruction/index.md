@@ -1,6 +1,6 @@
 ---
 title: Trans-dimensional gravity inversion for salt reconstruction
-summary: Salt reconstruction using trans-dimensional Monte Carlo, randomized parallel tempering and sparse geometry parameterization
+summary: Investigating uncertainty of salt reconstruction using multiple prior information and sparse geometry parameterization
 tags:
 - uncertainty
 date: "2016-04-27T00:00:00Z"
