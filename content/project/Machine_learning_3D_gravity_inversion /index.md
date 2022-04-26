@@ -1,6 +1,6 @@
 ---
 title: Machine learning 3D gravity inversion
-summary: An example of using the in-built project page.
+summary: We developed an practical way to generate a large sequence of 3D realistic models as the training dataset in the machine/deep learning research
 tags:
 - learning
 date: "2016-04-27T00:00:00Z"
