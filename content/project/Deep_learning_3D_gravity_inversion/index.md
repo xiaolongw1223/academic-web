@@ -1,5 +1,5 @@
 ---
-title: Machine learning 3D gravity inversion
+title: Deep learning 3D gravity inversion
 summary: We developed a practical way to generate a large sequence of 3D realistic models as the training dataset in the machine/deep learning research
 tags:
 - learning
