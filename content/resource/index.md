@@ -17,7 +17,3 @@ subtitle:
 ### Synthetic models
 
 {{< icon name="book" pack="fas" >}} Horseshoe shaped realistic [density](https://github.com/xiaolongw1223/synthetic-models/tree/master/horseshoe_dens) and [susceptibility](https://github.com/xiaolongw1223/synthetic-models/tree/master/horseshoe_susc) models. [Paper](https://library.seg.org/doi/abs/10.1190/geo2020-0672.1)
-
-{{< icon name="book" pack="fas" >}} [Density model with two blocks](https://github.com/xiaolongw1223/synthetic-models/tree/master/two_blocks_dens)
-
-{{< icon name="book" pack="fas" >}} [Susceptibility model with one block](https://github.com/xiaolongw1223/synthetic-models/tree/master/one_block_susc)
