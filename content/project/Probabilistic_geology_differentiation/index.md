@@ -31,4 +31,10 @@ url_video: ""
 slides: ""
 ---
 
-xxxxx
+### Figure Caption
+(Top) The probabilities of spatial distribution for Units 2 to 9. Warmer colors represent higher probabilities, and colder colors indicate lower probabilities. (Bottom) The probabilities of geological units at different locations indicated by black boxes.
+
+### Research Summary
+[Geology differentiation](https://sites.google.com/view/jiajiasun/research/geology-differentiation) takes geophysical measurements and inversion results one step closer to the goal of characterizing subsurface geology. It provides a natural way to incorporate prior geological knowledge, physical property measurements and the inverted physical property models into one framework, and helps us to extract more information from geophysical data sets. The results of geology differentiation are typically in the form of a 3D quasi-geology model which shows the spatial distribution of various geological units identified during the geology differentiation process. It is, therefore, of practical significance to be able to quantify the uncertainties of the geological units in a quasi-geology model.
+
+We have developed an effective workflow to construct 3D probabilistic quasi-geology models in the deterministic inversion framework. Two essential components of our workflow are the generation of a large sequence of equivalent physical property models and the acceptance/rejection of these models. We have used mixed Lp norm joint inversion to generate a large sequence of density contrast and susceptibility models. The prior physical property measurements on drill core samples have been used to accept only these models that are consistent with physical property measurements. We have performed geology differentiation for all these accepted models and obtained a set of 3D quasi-geology models, based on which we quantify uncertainties of spatial distributions for each geological unit and calculate probabilities of geological unit types at any location in a study area.
