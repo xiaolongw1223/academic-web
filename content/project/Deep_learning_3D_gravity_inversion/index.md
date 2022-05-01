@@ -1,6 +1,6 @@
 ---
 title: Deep learning 3D gravity inversion
-summary: We developed a practical way to generate a large sequence of 3D realistic models as the training dataset in the machine/deep learning research
+summary: We developed a practical way to generate a large sequence of 3D realistic models as the training and test sets for the machine/deep learning research
 tags:
 - learning
 date: "2022-01-01T00:00:00Z"
@@ -31,4 +31,8 @@ url_video: ""
 slides: ""
 ---
 
-xxxxx
+### Figure Caption
+A realistic synthetic model set consists of a randomly generated 3D anomalous body (i.e., brownish object), simulated topography (i.e., intermediate layer) and geophysical response (i.e., top layer). In our work, we generated a large sequence of realistic synthetic models as the training and test sets for the network.
+
+### Research Summary
+Ongoing research

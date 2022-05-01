@@ -31,4 +31,9 @@ url_video: ""
 slides: ""
 ---
 
-xxxxx
+### Figure Caption
+The recovered SEG-EAGE salt model without using prior information (a) and with informative constraint (b). The reconstructed Sigsbee salt model without (c) and with (d) informative constraint. (e) and (f), respectively, show the inverted Pluto models without and with imposing prior information.
+
+
+### Research Summary
+Ongoing research 
