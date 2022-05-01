@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = "Research"
+title = "Research & Projects"
 subtitle = "山重水复疑无路，柳暗花明又一村 (宋.陆游) After endless mountains and rivers that leave doubt whether there is a path out, suddenly one encounters the shade of a willow, bright flowers and a lovely village (translated by Hillary Clinton, 2010)"
 
 [content]
