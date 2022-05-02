@@ -32,4 +32,8 @@ url_video: ""
 slides: ""
 ---
 
-xxxxx
+### Figure Caption
+A 3D view of the newly identified geological units based on joint inversion results.
+
+### Project Summary
+Mineral exploration under a thick sedimentary cover naturally relies on geophysical methods. We have used high-resolution airborne magnetic and gravity gradient data over northeast Iowa to characterize the geology of the concealed Precambrian rocks and evaluate the prospectivity of mineral deposits. We performed separate and joint inversions of magnetic and gravity gradient data to obtain 3D density contrast models and 3D susceptibility models, based on which we carried out geology differentiation. we identified 10 geologic units and their spatial distributions in 3D based on separately inverted physical property values. The extension of 2D geologic interpretation to 3D allows for the discovery of four previously unidentified geologic units, a more detailed classification of the Yavapai country rock, and the identification of the highly anomalous core of the mafic intrusions. Joint inversion allows for the classification of a few geologic units further into several subclasses. 
