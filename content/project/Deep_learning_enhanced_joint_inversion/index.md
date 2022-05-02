@@ -32,4 +32,10 @@ url_video: ""
 slides: ""
 ---
 
-xxxxx
+### Figure Caption
+The demonstration ﬂowchart of the deep learning enhanced joint inversion framework.
+
+### Research Summary
+I collaboratively participated in this research program led by [Yanyan Hu](https://scholar.google.com/citations?hl=en&user=4I85QsoAAAAJ) from the [Department of Electrical and Computer Engineering](https://uh.edu/) at University of Houston under the supervision of Prof. [Jiefu Chen](https://scholar.google.com/citations?user=QOXPdn8AAAAJ&hl=en), [Xuqing Wu](https://scholar.google.com/citations?user=xAnmAwwAAAAJ&hl=en) and [Jiajia Sun](https://scholar.google.com/citations?hl=en&user=j8vhgpMAAAAJ).
+
+We have developed a deep learning enhanced joint inversion framework, which takes advantages of a deep neural network to achieve information extraction, fusion, and exchange. Experiments on the joint inversion of DC resistivity data and seismic travel time demonstrate the higher accuracy of recovered physical property values and better structural similarity compared to traditional independent inversions and cross gradient joint inversion. The method proposed in our work can deal with out-of-sample geological structures, different sensing configurations, and nonconforming discretization. Parallel experiments of adding a cross gradient constraint while training the network also validate the capability of our method to extract the structural information from independently recovered models.
