@@ -7,13 +7,11 @@ title: About Me
 ---
 
 ### Summary
+- Ph.D. student at University of Houston
 - Chinese geophysicist
-- Ph.D. student in University of Houston
-- Proud father and amateur photographer
-- Developing advanced joint inversion algorithms
-- Analyzing uncertianties of subsurface models
-- Natural resources explorations
-- Machine/Deep learning geoscientific applications
+- Geosciences enthusiast
+- Proud father, amateur photographer and reader
+- Inquisitive, dependable, adventurous, convivial ...
 
 ---
 
