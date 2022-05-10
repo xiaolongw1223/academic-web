@@ -1,5 +1,5 @@
 ---
-title: "3D probabilistic geology differentiation based on airborne geophysics, mixed Lp norm joint inversion and petrophysical measurements"
+title: "3D probabilistic geology differentiation based on airborne geophysics, mixed L p norm joint inversion and physical property measurements"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
