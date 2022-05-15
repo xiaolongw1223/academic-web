@@ -14,7 +14,7 @@ authors:
 # - "Equal contribution"
 
 date: "2022-04-01T00:00:00Z"
-doi: ""
+doi: "10.1190/geo2021-0833.1"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2022-04-01T00:00:00Z"
