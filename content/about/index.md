@@ -44,6 +44,7 @@ title: About Me
 - **2021**: Session Chair for MG P1: New Methods and Case Histories 1 in IMAGE (SEG and AAPG joint annual meeting)
 
 #### Affiliations
+- **2022-present**: European Geosciences Union ([EGU](https://www.egu.eu/))
 - **2021-present**: Geophysical Society of Houston ([GSH](https://www.gshtx.org/))
 - **2020-present**: European Association of Geoscientists \& Engineers ([EAGE](https://eage.org/)) and American Geophysical Union ([AGU](https://www.agu.org/))
 - **2018-present**: Society of Exploration Geophysicists ([SEG](https://seg.org/))
