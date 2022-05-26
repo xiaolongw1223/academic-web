@@ -41,7 +41,8 @@ title: About Me
 - **2021-present**: [*Geophysics*](https://library.seg.org/journal/gpysa7), [*Geophysical Journal International*](https://academic.oup.com/gji), [*IEEE Transactions on Geoscience and Remote Sensing*](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36) and [*Acta Geophysica*](https://www.springer.com/journal/11600)
 
 #### Conferences
-- **2021**: Session Chair for MG P1: New Methods and Case Histories 1 in IMAGE (SEG and AAPG joint annual meeting)
+- **2022**: Session Chair for GM 2: Nonstandard Applications in Potential Fields in the 2nd IMAGE, Houston, Texas, USA
+- **2021**: Session Chair for MG P1: New Methods and Case Histories 1 in the 1st IMAGE (SEG and AAPG joint annual meeting), Denver, Colorado, USA
 
 #### Affiliations
 - **2022-present**: European Geosciences Union ([EGU](https://www.egu.eu/))
