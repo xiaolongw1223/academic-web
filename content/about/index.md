@@ -13,7 +13,7 @@ title: About Me
 - Inquisitive, dependable, adventurous, convivial, ...
 - Developing advanced joint inversion algorithms
 - Analyzing uncertianties of subsurface models
-- Natural resources explorations
+- Exploring natural resources
 ---
 
 ### Education
