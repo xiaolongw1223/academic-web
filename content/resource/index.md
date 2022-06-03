@@ -17,3 +17,11 @@ subtitle:
 ### Synthetic models
 
 {{< icon name="book" pack="fas" >}} Horseshoe shaped realistic [density](https://github.com/xiaolongw1223/synthetic-models/tree/master/horseshoe_dens) and [susceptibility](https://github.com/xiaolongw1223/synthetic-models/tree/master/horseshoe_susc) models. [Paper](https://library.seg.org/doi/abs/10.1190/geo2020-0672.1)
+
+
+### My favorite tutorials
+{{< icon name="book" pack="fas" >}} [Ph.D. Advice](https://www.eecs.harvard.edu/htk/phdadvice/#10) by Professor H.T. Kung, Harvard University.
+
+{{< icon name="book" pack="fas" >}} [The Science of Scientific Writing](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://cseweb.ucsd.edu/~swanson/papers/science-of-writing.pdf) by Professor George D. Gopen and Judith A. Swan, Duke University.
+
+{{< icon name="book" pack="fas" >}} [Inversion for applied geophysics: A tutorial](https://library.seg.org/doi/abs/10.1190/1.9781560801719.ch5) by Professor Douglas W. Oldenburg and Yaoguo Li, University of British Columbia and Colorado School of Mines.
