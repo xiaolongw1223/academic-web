@@ -20,10 +20,10 @@ subtitle:
 
 
 ### My favorite tutorials
-{{< icon name="book" pack="fas" >}} [*Ph.D. Advice*](https://www.eecs.harvard.edu/htk/phdadvice/#10) by Professor H.T. Kung, Harvard University.
+{{< icon name="book" pack="fas" >}} [*Ph.D. Advice*](https://www.eecs.harvard.edu/htk/phdadvice/#10) by Prof. H.T. Kung, Harvard University.
 
-{{< icon name="book" pack="fas" >}} [*The Science of Scientific Writing*](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://cseweb.ucsd.edu/~swanson/papers/science-of-writing.pdf) by Professor George D. Gopen and Judith A. Swan, Duke University.
+{{< icon name="book" pack="fas" >}} [*The Science of Scientific Writing*](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://cseweb.ucsd.edu/~swanson/papers/science-of-writing.pdf) by Prof. George D. Gopen and Judith A. Swan, Duke University.
 
-{{< icon name="book" pack="fas" >}} [*Inversion for applied geophysics: A tutorial*](https://library.seg.org/doi/abs/10.1190/1.9781560801719.ch5) by Professor Douglas W. Oldenburg and Yaoguo Li, University of British Columbia and Colorado School of Mines.
+{{< icon name="book" pack="fas" >}} [*Inversion for applied geophysics: A tutorial*](https://library.seg.org/doi/abs/10.1190/1.9781560801719.ch5) by Prof. Douglas W. Oldenburg and Yaoguo Li, University of British Columbia and Colorado School of Mines.
 
-{{< icon name="book" pack="fas" >}} [*Lecture Notes on Inverse Theory*](https://www.cambridge.org/engage/coe/article-details/60e6a70d609d0d7fa3d893a7) by Professor Andreas Fichtner, ETH Zurich.
+{{< icon name="book" pack="fas" >}} [*Lecture Notes on Inverse Theory*](https://www.cambridge.org/engage/coe/article-details/60e6a70d609d0d7fa3d893a7) by Prof. Andreas Fichtner, ETH Zurich.
