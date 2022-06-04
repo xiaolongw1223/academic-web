@@ -42,7 +42,7 @@ subtitle = "山重水复疑无路，柳暗花明又一村 (宋.陆游) After end
     tag = "learning"
 
   [[content.filter_button]]
-    name = "Others"
+    name = "Other Interests"
     tag = "other"
 
 [design]
