@@ -76,4 +76,4 @@ With a burgeoning human population, growing needs for natural resources as well 
 
 **Methodology Research:** a. Joint Inversion, b. Uncertainty Analysis, c. Geology Differentiation
 
-**Application Research:** a. Natural Resources Exploration, b. Machine/Deep Learning
+**Application Research:** a. Airborne Geophysics, b. Natural Resources Exploration, c. Machine/Deep Learning
