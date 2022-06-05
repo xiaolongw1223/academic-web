@@ -10,7 +10,7 @@ header:
 ### 2022
 
 - **04/07**:
-  Xiaolong and his best half - Yuteng were blessed with the arrival of their first baby.
+  Xiaolong and his best half - Yuteng were blessed with the arrival of their first baby!
 
 - **03/13**:
   Congratulations to Xiaolong for receiveing the Best Student Paper Award and the Best Paper Award (co-authored) from the SEG Mining Committee for his work presented at 2021 SEG Annual Meeting.
@@ -21,7 +21,7 @@ header:
   Xiaolong attended the AGU Fall Meeting in New Orleans, and gave two poster presentations.
 
 - **10/05**:
-  Xiaolong was one of the three  recipients of the inaugural [EAS Student Research Grant](https://uh.edu/nsm/earth-atmospheric/news-events/stories/2021/1011-student-research.php).
+  Xiaolong was one of the three  recipients of the inaugural [EAS Student Research Grant](https://uh.edu/nsm/earth-atmospheric/news-events/stories/2021/1011-student-research.php)!
 
 - **09/27**:
   Xiaolong attended IMAGE '21, the joint SEG/AAPE Annual Meeting in Denver, and gave one oral and one poster presentations.
@@ -33,9 +33,9 @@ header:
   We developed an empirical method to analyze uncertainty of 3D inversion in the deterministic framework. Xiaolong published his first mansucript on [Geophysics](https://library.seg.org/doi/abs/10.1190/geo2020-0672.1).
 
 - **05/29**:
-  Xiaolong was awarded SEG [John R. Butler Jr. Scholarship](https://seg.org/Education/Student/Student-Opportunities/Scholarships/List-of-scholarship-recipients).
+  Xiaolong was awarded SEG [John R. Butler Jr. Scholarship](https://seg.org/Education/Student/Student-Opportunities/Scholarships/List-of-scholarship-recipients)!
 
 ### 2020
 
 - **04/27**:
-  Xiaolong successfully defended his doctoral thesis proposal.
+  Xiaolong successfully defended his doctoral thesis proposal!
