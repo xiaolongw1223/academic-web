@@ -83,7 +83,7 @@ title: About Me
 
 ### Certifications
 - **2022:** Remote pilot for the small unmanned aircraft system issued by Federal Aviation Administration
-- **2021:** FAA Part 107 Knowledge Test Prep for Drone Pilots through Udemy, Inc.
+- **2021:** FAA Part 107 Knowledge Test Prep for Drone Pilot through Udemy, Inc.
 - **2021:** ISInProG@Lario - 2021 International School on Inverse Problems in Geophysics on the shore of the Lario Lake
 - **2021:** Magnetotellurics (MT) short course given by Dr. Alan G. Jones
 - **2018:** Certificate signed by Prof. Andrew Ng upon successfully completing the online machine learning course provided by Stanford University through Coursera, Inc.
