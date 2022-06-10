@@ -62,6 +62,7 @@ title: About Me
 
 #### SEG
 
+- **2022:** SEG Lucien LaCoste Scholarship (\$5,305.12)
 - **2022:** The Best Paper in the Mining Sessions at 2021 IMAGE Annual Meeting (co-author)
 - **2022:** The Best Student Paper in the Mining Sessions at 2021 IMAGE Annual Meeting
 - **2021:** SEG Technical Program Registration Grant
