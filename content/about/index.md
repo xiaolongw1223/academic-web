@@ -69,7 +69,7 @@ title: About Me
 - **2021:** The Best Poster in the Mining Sessions at 2020 SEG Annual Meeting
 
 #### others
-- **2016-2018:** The First Prize Scholarship, Northwest University, Xi'an, China (3x12,000)
+- **2016-2018:** The First Prize Scholarship, Northwest University, Xi'an, China (3x¥12,000)
 - **2015:** The Best Bachelor Thesis, China University of Geosciences, Beijing, China (1,000)
 
 ---
