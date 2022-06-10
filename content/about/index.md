@@ -58,7 +58,7 @@ title: About Me
 
 - **2021:** Student Research Funding, paid directly to student (\$1,000)
 - **2021:** Student Travel Award (\$1,000)
-- **2020-2021:** Outstanding Academic Achievement (\$700\times2)
+- **2020-2021:** Outstanding Academic Achievement (\$700$\times$2)
 
 #### SEG
 
@@ -69,7 +69,7 @@ title: About Me
 - **2021:** The Best Poster in the Mining Sessions at 2020 SEG Annual Meeting
 
 #### others
-- **2016-2018:** The First Prize Scholarship, Northwest University, Xi'an, China (￥12,000\times3)
+- **2016-2018:** The First Prize Scholarship, Northwest University, Xi'an, China (￥12,000x3)
 - **2015:** The Best Bachelor Thesis, China University of Geosciences, Beijing, China (￥1,000)
 
 ---
