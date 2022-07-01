@@ -70,7 +70,7 @@ email: ""
 highlight_name: true
 ---
 
-### I am a geoscience enthusiast interested in integrated Earth modeling and uncertainty analysis.
+### I am a geoscience enthusiast interested in integrated Earth modeling and uncertainty analysis of subsurface scenarios.
 
 ### I am pursuing my Ph.D. degree in geophysics advised by Dr. [Jiajia Sun](https://sites.google.com/view/jiajiasun) at University of Houston.
 
