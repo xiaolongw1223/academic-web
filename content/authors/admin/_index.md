@@ -74,6 +74,13 @@ highlight_name: true
 
 ## I am pursuing my Ph.D. degree in geophysics advised by Dr. [Jiajia Sun](https://sites.google.com/view/jiajiasun) at University of Houston.
 
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
+
 **Methodology Research:** a. Joint Inversion, b. Uncertainty Analysis, c. Geology Differentiation
 
 **Application Research:** a. Airborne Geophysics, b. Natural Resources Exploration, c. Machine/Deep Learning
