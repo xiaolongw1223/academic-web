@@ -77,11 +77,11 @@ highlight_name: true
 ##
 ##
 
-| **Methodology Research** |      | **Application Research**      |
-| ------------------------ | ---- | ----------------------------- |
-| Joint Inversion          |      | Airborne Geophysics           |
-| Uncertainty Analysis     |      | Natural Resources Exploration |
-| Geology Differentiation  |      | Machine/Deep Learning         |
+| **Methodology Research** | ** ** | **Application Research**      |
+| ------------------------ | ----- | ----------------------------- |
+| Joint Inversion          |       | Airborne Geophysics           |
+| Uncertainty Analysis     |       | Natural Resources Exploration |
+| Geology Differentiation  |       | Machine/Deep Learning         |
 
 ##
 ##
