@@ -78,8 +78,6 @@ highlight_name: true
 
 *With a burgeoning human population, growing needs for natural resources as well as concerns about global climate changes and natural hazards, a sustainable management of our planet has drawn considerable attention over the years. Integrating multiple geoscientific observations is one of the practical ways to better comprehend the Earth system. My research interests resolve around:*
 
-<br>
-
 | **Methodology Research** | &nbsp;&nbsp;&nbsp; | **Application Research**      |
 | ------------------------ | ------------------ | ----------------------------- |
 | Joint Inversion          |                    | Airborne Geophysics           |
