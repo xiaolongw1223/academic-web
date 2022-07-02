@@ -74,21 +74,21 @@ highlight_name: true
 
 ## I am pursuing my Ph.D. degree in geophysics advised by Dr. [Jiajia Sun](https://sites.google.com/view/jiajiasun) at University of Houston.
 
-\
-\
-\
-\
+<br>
+<br>
+<br>
+<br>
 
 *With a burgeoning human population, growing needs for natural resources as well as concerns about global climate changes and natural hazards, a sustainable management of our planet has drawn considerable attention over the years. Integrating multiple geoscientific observations is one of the practical ways to better comprehend the Earth system. My research interests resolve around:*
 
-\
-\
+<br>
+<br>
 
-| **Methodology Research** | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | **Application Research**      |
-| ------------------------ | ------------------------------------ | ----------------------------- |
-| Joint Inversion          |                                      | Airborne Geophysics           |
-| Uncertainty Analysis     |                                      | Natural Resources Exploration |
-| Geology Differentiation  |                                      | Machine/Deep Learning         |
+| **Methodology Research** | &nbsp;&nbsp;&nbsp; | **Application Research**      |
+| ------------------------ | ------------------ | ----------------------------- |
+| Joint Inversion          |                    | Airborne Geophysics           |
+| Uncertainty Analysis     |                    | Natural Resources Exploration |
+| Geology Differentiation  |                    | Machine/Deep Learning         |
 
 
 <!-- I am pursuing my Ph.D. degree in geophysics advised by Dr. [Jiajia Sun](https://sites.google.com/view/jiajiasun) in the [Department of Earth and Atmospheric Sciences](https://uh.edu/nsm/earth-atmospheric/) at University of Houston. I obtained my M.S. in geology in 2018 at [Northwest University](https://www.nwu.edu.cn/), Xi'an, China, and B.S. in geophysics in 2015 at [China University of Geosciences](https://www.cugb.edu.cn/) in Beijing.
