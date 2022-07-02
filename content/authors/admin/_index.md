@@ -74,13 +74,15 @@ highlight_name: true
 
 ## I am pursuing my Ph.D. degree in geophysics advised by Dr. [Jiajia Sun](https://sites.google.com/view/jiajiasun) at University of Houston.
 
-##
-##
+\
+\
+\
+\
 
 *With a burgeoning human population, growing needs for natural resources as well as concerns about global climate changes and natural hazards, a sustainable management of our planet has drawn considerable attention over the years. Integrating multiple geoscientific observations is one of the practical ways to better comprehend the Earth system. My research interests resolve around:*
 
-##
-##
+\
+\
 
 | **Methodology Research** | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | **Application Research**      |
 | ------------------------ | ------------------------------------ | ----------------------------- |
