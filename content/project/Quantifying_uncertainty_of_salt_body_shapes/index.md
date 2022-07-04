@@ -1,5 +1,5 @@
 ---
-title: Trans-dimensional gravity inversion for salt reconstruction
+title: Quantifying uncertainty of salt body shapes
 summary: Investigating uncertainty of salt reconstruction using multiple prior information and sparse geometry parameterization
 tags:
 - uncertainty
