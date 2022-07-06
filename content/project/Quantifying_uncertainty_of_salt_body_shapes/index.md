@@ -32,7 +32,7 @@ slides: ""
 ---
 
 ### Figure Caption
-The recovered 2D SEG-EAGE salt models without (a) and with (b) constraint. The reconstructed Sigsbee salt models without (c) and with (d) constraint. (e) and (f), respectively, show the inverted Pluto models without and with imposing prior information.
+The recovered 2D SEG-EAGE salt models without (a) and with (b) constraint. The reconstructed Sigsbee salt models without (c) and with (d) constraint.
 
 
 ### Research Summary
