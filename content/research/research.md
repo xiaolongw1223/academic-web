@@ -38,7 +38,7 @@ subtitle = "山重水复疑无路，柳暗花明又一村 (宋.陆游) After end
     tag = "differentiation"
 
   [[content.filter_button]]
-    name = "Machine/Deep Learning"
+    name = "Deep Learning"
     tag = "learning"
 
   [[content.filter_button]]
