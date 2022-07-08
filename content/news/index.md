@@ -8,6 +8,9 @@ header:
 ---
 
 ### 2022
+- **06/28**:
+  Xiaolong and his teammates have won a grand prize of \$3,000CAD for the prestigious INNOVATION PRIZE in the [Frank Arnott - Next Generation Explorers Award](https://www.pdac.ca/members/students/faa/about-the-award).
+
 
 - **06/10**:
   Xiaolong has been awarded the SEG Lucien LaCoste Scholarship for \$5,305.12! This is the largest amounts of scholarship money Xiaolong has received so far.
