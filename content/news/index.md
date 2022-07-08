@@ -9,7 +9,7 @@ header:
 
 ### 2022
 - **06/28**:
-  Xiaolong and his teammates have won the prestigious Innovation Prize in [Frank Arnott - Next Generation Explorers Award](https://www.pdac.ca/members/students/faa/about-the-award).
+  Xiaolong and his teammates have won the prestigious Innovation Prize in [Frank Arnott - Next Generation Explorers Award](https://www.pdac.ca/members/students/faa/about-the-award)!
 
 
 - **06/10**:
