@@ -1,9 +1,9 @@
 ---
-title: Quantifying uncertainty of salt body shapes
-summary: Investigating uncertainty of salt reconstruction using multiple prior information and sparse geometry parameterization
+title: Multi-salt reconstruction
+summary: We developed a new method to recover multiple separately distributed salt bodies
 tags:
 - uncertainty
-date: "2022-01-01T00:00:00Z"
+date: "2022-06-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -32,7 +32,7 @@ slides: ""
 ---
 
 ### Figure Caption
-The recovered 2D SEG-EAGE salt models without (a) and with (b) constraint. The reconstructed Sigsbee salt models without (c) and with (d) constraint.
+The recovered mean model without using any constraint.
 
 
 ### Research Summary
