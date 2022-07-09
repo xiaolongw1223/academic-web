@@ -11,9 +11,6 @@ title: About Me
 - Chinese geophysicist and geoscience enthusiast
 - Proud father, amateur photographer, reader, ...
 - Inquisitive, Conscientious, cooperative, convivial, ...
-- Developing advanced joint inversion algorithms
-- Analyzing uncertianties of subsurface models
-- Exploring natural resources
 ---
 
 ### Education
