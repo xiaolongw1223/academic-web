@@ -6,10 +6,10 @@ title: About Me
 
 ---
 
-<!-- ### Summary -->
-- Ph.D. student at University of Houston
-- Chinese geophysicist and geoscience enthusiast
-- Proud father, amateur photographer, reader, ...
+### I Am
+- A Ph.D. student at University of Houston
+- A Chinese geophysicist and geoscience enthusiast
+- A proud father, amateur photographer, reader, ...
 - Inquisitive, Conscientious, cooperative, convivial, ...
 ---
 
