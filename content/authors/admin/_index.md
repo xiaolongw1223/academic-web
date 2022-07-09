@@ -76,7 +76,7 @@ highlight_name: true
 
 <br>
 
-With a burgeoning human population, growing needs for natural resources as well as concerns about global climate changes and natural hazards, a sustainable management of our planet has drawn considerable attention over the years. Integrating multiple geoscientific observations is one of the practical ways to better comprehend the Earth system. My current research interests include:
+With a burgeoning human population, growing needs for natural resources as well as concerns about global climate changes and natural hazards, a sustainable management of our planet has drawn considerable attention over the years. Integrating multiple geoscientific observations is one of the practical ways to better comprehend the Earth system. Around the theme of integrated Earth modeling, my current research interests include:
 
 a. Geophysical separate and joint inversions\
 b. Uncertainty analysis of determinsitc and stochastic inverse problems\

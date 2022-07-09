@@ -6,7 +6,7 @@ title: About Me
 
 ---
 
-### Summary
+<!-- ### Summary -->
 - Ph.D. student at University of Houston
 - Chinese geophysicist and geoscience enthusiast
 - Proud father, amateur photographer, reader, ...
