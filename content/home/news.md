@@ -53,7 +53,7 @@ subtitle = '[SEE MORE NEWS <i class="fa fa-angle-double-right"></i>](/news/)'
 - **06/10/2022**:
   Xiaolong has been awarded the SEG Lucien LaCoste Scholarship for \$5,305.12!
 
-- **04/07/2022**:
+- **xx/xx/2022**:
   Xiaolong and his best half - Yuteng were blessed with the arrival of their first baby!
 
 - **03/13/2022**:

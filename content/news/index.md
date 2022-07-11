@@ -15,7 +15,7 @@ header:
 - **06/10**:
   Xiaolong has been awarded the SEG Lucien LaCoste Scholarship for \$5,305.12! This is the largest amounts of scholarship money Xiaolong has received so far.
 
-- **04/07**:
+- **xx/xx**:
   Xiaolong and his best half - Yuteng were blessed with the arrival of their first baby!
 
 - **03/13**:
