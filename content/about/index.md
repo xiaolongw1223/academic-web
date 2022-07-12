@@ -2,7 +2,8 @@
 title: About Me
 ---
 
-[{{< icon name="file-pdf" pack="fas" >}}Download my full CV in PDF](https://github.com/xiaolongw1223/cv-plus/blob/main/xiaolong_wei_cv_english.pdf).
+<!-- [{{< icon name="file-pdf" pack="fas" >}}Download my full CV in PDF](https://github.com/xiaolongw1223/cv-plus/blob/main/xiaolong_wei_cv_english.pdf). -->
+[{{< icon name="file-pdf" pack="fas" >}}Download my full CV in PDF](uploads/xiaolong_wei_cv_english.pdf).
 
 ---
 
