@@ -3,6 +3,7 @@ title: A critical mineral exploration – Niobium
 summary: The largest known Niobium deposit in the United States
 tags:
 - differentiation
+- joint
 date: "2020-06-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
