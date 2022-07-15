@@ -5,7 +5,7 @@ subtitle:
 
 ### Open code
 
-{{< icon name="fa-github" pack="fab" >}} Find my code in [GitHub](https://github.com/xiaolongw1223/Code-publications).
+{{< icon name="github" pack="fab" >}} Find my code in [GitHub](https://github.com/xiaolongw1223/Code-publications).
 
 {{< icon name="python" pack="fab" >}} Joint inversion of gravity gradient and magnetic data using mixed Lp norm regularization. [Code](https://zenodo.org/record/5774303#.YmQ2yPPMJTY), [Paper]()
 
