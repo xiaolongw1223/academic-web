@@ -65,8 +65,8 @@ title: About Me
 ### Professional Service \& Outreach
 
 #### Peer Reviewer
-- **2022-present**: [*Geocarto International*](https://www.tandfonline.com/journals/tgei20) and [SEG Conference Proceeding](https://seg.org/)
-- **2021-present**: [*Geophysics*](https://library.seg.org/journal/gpysa7), [*Geophysical Journal International*](https://academic.oup.com/gji), [*IEEE Transactions on Geoscience and Remote Sensing*](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36) and [*Acta Geophysica*](https://www.springer.com/journal/11600)
+- **2022-present**: [Geocarto International](https://www.tandfonline.com/journals/tgei20) and [SEG Conference Proceeding](https://seg.org/)
+- **2021-present**: [Geophysics](https://library.seg.org/journal/gpysa7), [Geophysical Journal International](https://academic.oup.com/gji), [IEEE Transactions on Geoscience and Remote Sensing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36) and [Acta Geophysica](https://www.springer.com/journal/11600)
 
 #### Conference Chairman
 - **2022**: Session Chair for GM 1: Inversion Insights at IMAGE Annual Meeting, Houston, Texas, USA
