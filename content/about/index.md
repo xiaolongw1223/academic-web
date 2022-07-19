@@ -33,7 +33,7 @@ title: About Me
 ---
 
 ### Grants
-- **2020-2021:** \$1,000; Proposal:"Uncertainty Analysis of Geophysical Inversions Conditioned on Spatial Distributions of Geologic Units"; Student Research Funding Program (independent of advisor) from EAS Department at University of Houston; PI: Xiaolong Wei
+- **2020-2021:** \$1,000; Proposal:"Uncertainty Analysis of Geophysical Inversions Conditioned on Spatial Distributions of Geologic Units"; [Student Research Funding Program](https://uh.edu/nsm/earth-atmospheric/news-events/stories/2021/1011-student-research.php) (independent of advisor) from EAS Department at University of Houston; PI: Xiaolong Wei
 
 
 ---
