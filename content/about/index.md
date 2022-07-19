@@ -11,6 +11,7 @@ title: About Me
 - A Chinese geophysicist and geoscience enthusiast
 - A proud father, amateur photographer, reader, ...
 - Inquisitive, conscientious, cooperative, convivial, ...
+
 ---
 
 ### Education
@@ -28,6 +29,36 @@ title: About Me
 
 - **2018/08–present**: Research Assistant,
   [University of Houston](https://uh.edu/nsm/earth-atmospheric/), Houston, USA
+
+---
+
+### Grants
+- **2020-2021:** \$1,000; Proposal:"Uncertainty Analysis of Geophysical Inversions Conditioned on Spatial Distributions of Geologic Units"; Student Research Funding Program (independent of advisor) from EAS Department at University of Houston; PI: Xiaolong Wei
+
+
+---
+
+### Awards & Honors
+
+#### University of Houston
+
+<!-- - **2021:** Student Research Funding, paid directly to student (\$1,000) -->
+- **2021:** Student Travel Award (\$1,000)
+- **2020-2021:** Outstanding Academic Achievement (\$700*2)
+
+#### SEG
+
+- **2022:** SEG Lucien LaCoste Scholarship (\$5,305.12)
+- **2022:** The Best Paper in the Mining Sessions at 2021 IMAGE Annual Meeting (co-author)
+- **2022:** The Best Student Paper in the Mining Sessions at 2021 IMAGE Annual Meeting
+- **2021:** SEG Technical Program Registration Grant
+- **2021:** SEG [John R. Butler Jr. Scholarship](https://seg.org/Education/Student/Student-Opportunities/Scholarships/List-of-scholarship-recipients) (\$510.86)
+- **2021:** The Best Poster in the Mining Sessions at 2020 SEG Annual Meeting
+
+#### others
+- **2022:** The Innovation Prize in [Frank Arnott - Next Generation Explorers Award](https://www.pdac.ca/members/students/faa/about-the-award) (\$3,000CAD)
+- **2016-2018:** The First Prize Scholarship, Northwest University, Xi'an, China (￥12,000*3)
+- **2015:** The Best Bachelor Thesis, China University of Geosciences, Beijing, China (￥1,000)
 
 ---
 
@@ -49,34 +80,9 @@ title: About Me
 
 ---
 
-### Awards & Honors
-
-#### University of Houston
-
-- **2021:** Student Research Funding, paid directly to student (\$1,000)
-- **2021:** Student Travel Award (\$1,000)
-- **2020-2021:** Outstanding Academic Achievement (\$700*2)
-
-#### SEG
-
-- **2022:** SEG Lucien LaCoste Scholarship (\$5,305.12)
-- **2022:** The Best Paper in the Mining Sessions at 2021 IMAGE Annual Meeting (co-author)
-- **2022:** The Best Student Paper in the Mining Sessions at 2021 IMAGE Annual Meeting
-- **2021:** SEG Technical Program Registration Grant
-- **2021:** SEG [John R. Butler Jr. Scholarship](https://seg.org/Education/Student/Student-Opportunities/Scholarships/List-of-scholarship-recipients) (\$510.86)
-- **2021:** The Best Poster in the Mining Sessions at 2020 SEG Annual Meeting
-
-#### others
-- **2022:** The Innovation Prize in [Frank Arnott - Next Generation Explorers Award](https://www.pdac.ca/members/students/faa/about-the-award) (\$3,000CAD)
-- **2016-2018:** The First Prize Scholarship, Northwest University, Xi'an, China (￥12,000*3)
-- **2015:** The Best Bachelor Thesis, China University of Geosciences, Beijing, China (￥1,000)
-
----
-
 ### Teaching Experience
 - **2020:** GEOL7330: Potential Field Methods of Geophysical Exploration (graduate core course), guest lecturer, University of Houston
 - **2019:** GEOL7330: Geophysical Field Camp, teaching assistant, University of Houston
-
 
 ---
 
