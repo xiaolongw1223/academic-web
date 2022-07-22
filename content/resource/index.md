@@ -24,7 +24,7 @@ subtitle:
 ### My favorite tutorials
 {{< icon name="book" pack="fas" >}} [*Ph.D. Advice*](https://www.eecs.harvard.edu/htk/phdadvice/#10) by Prof. H.T. Kung, Harvard University.
 
-{{< icon name="book" pack="fas" >}} [*The Science of Scientific Writing*](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://cseweb.ucsd.edu/~swanson/papers/science-of-writing.pdf) by Prof. George D. Gopen and Judith A. Swan, Duke University.
+{{< icon name="book" pack="fas" >}} [*The Science of Scientific Writing*](https://www.americanscientist.org/blog/the-long-view/the-science-of-scientific-writing) by Prof. George D. Gopen and Judith A. Swan, Duke University.
 
 {{< icon name="book" pack="fas" >}} [*Inversion for applied geophysics: A tutorial*](https://library.seg.org/doi/abs/10.1190/1.9781560801719.ch5) by Prof. Douglas W. Oldenburg and Yaoguo Li, University of British Columbia and Colorado School of Mines.
 
