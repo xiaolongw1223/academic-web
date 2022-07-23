@@ -14,7 +14,7 @@ organizations:
   url: https://uh.edu/nsm/earth-atmospheric/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am pursuing my Ph.D. degree in geophysics at University of Houston
+bio: I am pursuing my Ph.D. degree in Geophysics at University of Houston
 
 # # Interests to show in About widget
 # interests:
@@ -70,9 +70,7 @@ email: ""
 highlight_name: true
 ---
 
-I am a geoscience enthusiast interested in integrated Earth modeling and uncertainty analysis.
-
-I am pursuing my Ph.D. degree in geophysics advised by Dr. [Jiajia Sun](https://sites.google.com/view/jiajiasun) at University of Houston.
+I am a geoscience enthusiast interested in integrated Earth modeling and uncertainty analysis. I am pursuing my Ph.D. degree in Geophysics advised by Dr. [Jiajia Sun](https://sites.google.com/view/jiajiasun) at University of Houston.
 
 <!-- <br> -->
 
