@@ -70,11 +70,11 @@ email: ""
 highlight_name: true
 ---
 
-## I am a geoscience enthusiast interested in integrated Earth modeling and uncertainty analysis.
+I am a geoscience enthusiast interested in integrated Earth modeling and uncertainty analysis.
 
-## I am pursuing my Ph.D. degree in geophysics advised by Dr. [Jiajia Sun](https://sites.google.com/view/jiajiasun) at University of Houston.
+I am pursuing my Ph.D. degree in geophysics advised by Dr. [Jiajia Sun](https://sites.google.com/view/jiajiasun) at University of Houston.
 
-<br>
+<!-- <br> -->
 
 With a burgeoning human population, growing needs for natural resources as well as concerns about global climate changes and natural hazards, a sustainable management of our planet has drawn considerable attention over the years. Integrating multiple geoscientific observations is one of the practical ways to better comprehend the Earth system. Around the theme of integrated Earth modeling, my current research interests include:
 
