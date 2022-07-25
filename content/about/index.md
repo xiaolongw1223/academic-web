@@ -43,6 +43,7 @@ title: About Me
 #### University of Houston
 
 <!-- - **2021:** Student Research Funding, paid directly to student (\$1,000) -->
+- **2022:** Outstanding Graduate Work in Geophysics (\$1,250)
 - **2021:** Student Travel Award (\$1,000)
 - **2020-2021:** Outstanding Academic Achievement (\$700*2)
 
@@ -68,7 +69,7 @@ title: About Me
 - **2022-present**: [Geocarto International](https://www.tandfonline.com/journals/tgei20) and [SEG Conference Proceeding](https://seg.org/)
 - **2021-present**: [Geophysics](https://library.seg.org/journal/gpysa7), [Geophysical Journal International](https://academic.oup.com/gji), [IEEE Transactions on Geoscience and Remote Sensing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36) and [Acta Geophysica](https://www.springer.com/journal/11600)
 
-#### Conference Chairman
+#### Conference Session Chair
 - **2022**: Session Chair for GM 1: Inversion Insights at IMAGE Annual Meeting, Houston, Texas, USA
 - **2021**: Session Chair for MG P1: New Methods and Case Histories 1 at IMAGE Annual Meeting (SEG and AAPG joint annual meeting), Denver, Colorado, USA
 
@@ -81,7 +82,7 @@ title: About Me
 ---
 
 ### Teaching Experience
-- **2020:** GEOL7330: Potential Field Methods of Geophysical Exploration (graduate core course), guest lecturer, University of Houston
+- **2021:** GEOL7330: Potential Field Methods of Geophysical Exploration (graduate core course), guest lecturer, University of Houston
 - **2019:** GEOL7330: Geophysical Field Camp, teaching assistant, University of Houston
 
 ---
