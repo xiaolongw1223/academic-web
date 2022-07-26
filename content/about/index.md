@@ -42,7 +42,6 @@ title: About Me
 
 #### University of Houston
 
-<!-- - **2021:** Student Research Funding, paid directly to student (\$1,000) -->
 - **2022:** Outstanding Graduate Work in Geophysics (\$1,250)
 - **2021:** Student Travel Award (\$1,000)
 - **2020-2021:** Outstanding Academic Achievement (\$700*2)
