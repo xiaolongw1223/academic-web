@@ -8,9 +8,11 @@ header:
 ---
 
 ### 2022
+- **07/22**:
+  Xiaolong's [paper](https://library.seg.org/doi/abs/10.1190/geo2021-0833.1) was nominated by GEOPHYSICS editors to be highlighted in “Geophysics Bright Spots” in The Leading Edge!
+
 - **06/28**:
   Xiaolong and his teammates have won the prestigious Innovation Prize in [Frank Arnott - Next Generation Explorers Award](https://www.pdac.ca/members/students/faa/about-the-award)!
-
 
 - **06/10**:
   Xiaolong has been awarded the SEG Lucien LaCoste Scholarship for \$5,305.12! This is the largest amounts of scholarship money Xiaolong has received so far.

@@ -48,7 +48,7 @@ title: About Me
 - **2020-2021:** Outstanding Academic Achievement (\$700*2)
 
 #### SEG
-
+- **2022:** Nomination of “Geophysics Bright Spots” in The Leading Edge by GEOPHYSCIS editorial board
 - **2022:** SEG Lucien LaCoste Scholarship (\$5,305.12)
 - **2022:** The Best Paper in the Mining Sessions at 2021 IMAGE Annual Meeting (co-author)
 - **2022:** The Best Student Paper in the Mining Sessions at 2021 IMAGE Annual Meeting
