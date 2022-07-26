@@ -6,7 +6,7 @@ title: "Xiaolong Wei"
 superuser: true
 
 # Role/position
-role: Ph.D. student, research assistant
+role: Ph.D. student, Research Assistant
 
 # Organizations/Affiliations
 organizations:
