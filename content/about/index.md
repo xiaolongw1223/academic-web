@@ -87,8 +87,9 @@ title: About Me
 ---
 
 ### Certifications
+- **2022:** Convolutional Neural Networks course given by Dr. Andrew Ng through Coursera, Inc.
 - **2022:** Remote pilot for the small unmanned aircraft system issued by Federal Aviation Administration
 - **2021:** FAA Part 107 Knowledge Test Prep for Drone Pilot on Udemy, Inc.
 - **2021:** ISInProG@Lario - 2021 International School on Inverse Problems in Geophysics on the shore of the Lario Lake
 - **2021:** Magnetotellurics (MT) short course given by Dr. Alan G. Jones
-- **2018:** Machine Learning course given by Dr. Andrew Ng on Coursera, Inc.
+- **2018:** Machine Learning course given by Dr. Andrew Ng through Coursera, Inc.
