@@ -15,7 +15,7 @@ authors:
 # - "Equal contribution"
 
 date: "2022-04-01T00:00:00Z"
-doi: ""
+doi: "10.1111/1365-2478.13280"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2022-04-01T00:00:00Z"
@@ -27,7 +27,7 @@ publishDate: "2022-04-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Geophysical Prospecting (under review)*"
+publication: "*Geophysical Prospecting*"
 publication_short: ""
 
 abstract: Critical minerals are an integral part of the energy transition because of their important and, sometimes, irreplaceable uses in solar panels, wind turbines, electrical vehicles, etc. Mapping critical mineral resources is, therefore, essential to achieving the net-zero emission goal by 2050. We present a case study on using airborne geophysical data, borehole and physical property measurements to characterize the Elk Creek Carbonatite complex (ECCC) located in the southeast of Nebraska, US. It hosts the largest known niobium deposit in the United States, and contains a high level of rare earth element (REE) mineralization. Our goal is to develop a better understanding of the 3D structures and compositions of ECCC as well as its critical mineral resources potential. We perform 3D joint inversion of the airborne gravity gradiometry and magnetic data to produce structure similar density and susceptibility models. We carry out geology differentiation, a process of classifying recovered physical property values into distinct units, and obtained a 3D quasi-geology model for the ECCC. We identify 12 geologic units, each of which is characterized by a distinct range of physical property values. Our quasi-geology model, especially Units 9 and 11, shows a remarkable consistency with the borehole assay measurements. Unit 9 is spatially coincident with the known niobium ore zone. Unit 11 represents a significant volume of highly dense and magnetic materials below the deepest boreholes. These materials are likely associated with unexplored niobium mineralization. Our study demonstrates the added value of 3D geophysical joint inversions and geology differentiation in the context of critical mineral exploration under a thick sedimentary overburden.

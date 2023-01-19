@@ -19,7 +19,7 @@ authors:
 # - "Equal contribution"
 
 date: "2022-04-01T00:00:00Z"
-doi: ""
+doi: "10.1190/geo2021-0589.1"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2022-04-01T00:00:00Z"
@@ -31,7 +31,7 @@ publishDate: "2022-04-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Geophysics (under review)*"
+publication: "*Geophysics*"
 publication_short: ""
 
 abstract: Using joint inversion to reveal underlying geology has drawn considerable research attention due to the availability of multiple geophysical datasets, ever-increasing computational resources, advanced inversion methodologies, and reduced uncertainties. A key issue of joint inversion is to develop effective strategies to link different geophysical data in a unified mathematical framework, where the information obtained from different models can complement each other. In this paper, we propose a deep learning enhanced (DLE) joint inversion framework to simultaneously reconstruct different physical models by fusing different types of geophysical data. Traditionally, structure similarity constraints are pursued by joint inversion algorithms using manually crafted formulations (e.g. cross gradient). In this work, the constraint is constructed by a deep neural network (DNN) during the learning process. The framework is designed to combine the DNN and the traditional independent inversion workflow together and improve the joint inversion result iteratively. The network can be easily extended to incorporate multi-physics without structural changes. Numerical experiments on the joint inversion of 2D DC resistivity data and seismic travel time show that the DLE framework achieves more accurate recovered property values and structural features than independent inversions and conventional cross gradient based joint inversion. In addition, this learning-based framework demonstrates excellent generalization abilities when tested on datasets using divergent geological structures. It can also handle different sensing configurations and nonconforming discretization.
