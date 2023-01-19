@@ -13,6 +13,10 @@ header:
   image: ""
 ---
 
+### 2022
+**09/22, Geophysical Society of Houston, Houston:**
+A Bayesian framework for uncertainty quantification of salt body shapes using gravity data
+
 ### 2021
 
 **11/16, Geophysical Society of Houston, Houston:**
