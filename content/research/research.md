@@ -34,16 +34,16 @@ subtitle = "山重水复疑无路，柳暗花明又一村 (宋.陆游) After end
     tag = "uncertainty"
 
   [[content.filter_button]]
+    name = "Mineral Exploration"
+    tag = "MinEx"
+
+  [[content.filter_button]]
     name = "Geology Differentiation"
     tag = "differentiation"
 
   [[content.filter_button]]
     name = "Deep Learning"
     tag = "learning"
-
-  [[content.filter_button]]
-    name = "Other Interests"
-    tag = "other"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

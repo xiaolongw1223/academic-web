@@ -3,6 +3,7 @@ title: Diamond exploration
 summary: Identifying Kimberlite based on the multiple geophysical responses
 tags:
 - differentiation
+- MinEx
 date: "2021-01-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
