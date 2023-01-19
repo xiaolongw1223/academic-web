@@ -50,6 +50,12 @@ subtitle = '[SEE MORE NEWS <i class="fa fa-angle-double-right"></i>](/news/)'
  css_class = ""
 +++
 
+- **12/17/2022**:
+  Xiaolong won the Fall 2022 [Dan E. Wells Outstanding Dissertation Award](https://uh.edu/nsm/earth-atmospheric/news-events/stories/2022/1219-dissertation-award.php)!
+
+- **10/31/2022**:
+  Xiaolong successfully defended his Ph.D. dissertation!!!
+
 - **07/22/2022**:
   Xiaolong's [paper](https://library.seg.org/doi/abs/10.1190/geo2021-0833.1) was nominated by GEOPHYSICS editors to be highlighted in “Geophysics Bright Spots” in The Leading Edge!
 
@@ -59,11 +65,8 @@ subtitle = '[SEE MORE NEWS <i class="fa fa-angle-double-right"></i>](/news/)'
 - **xx/xx/2022**:
   Xiaolong and his best half - Yuteng were blessed with the arrival of their first baby!
 
-- **03/13/2022**:
-  Congratulations to Xiaolong for receiveing the Best Student Paper Award and the Best Paper Award (co-authored) from the SEG Mining Committee for his work presented at 2021 SEG Annual Meeting.
-
 - **10/05/2021**:
-  Xiaolong was one of the three  recipients of the inaugural [EAS Student Research Grant](https://uh.edu/nsm/earth-atmospheric/news-events/stories/2021/1011-student-research.php)!
+  Xiaolong was one of the three recipients of the inaugural [EAS Student Research Grant](https://uh.edu/nsm/earth-atmospheric/news-events/stories/2021/1011-student-research.php)!
 
 - **05/29/2021**:
   Xiaolong was awarded SEG [John R. Butler Jr. Scholarship](https://seg.org/Education/Student/Student-Opportunities/Scholarships/List-of-scholarship-recipients)!

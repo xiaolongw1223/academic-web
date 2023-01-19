@@ -7,7 +7,7 @@ title: About Me
 ---
 
 ### I'm
-- A Ph.D. student at University of Houston
+- A postdoctoral research fellow at Stanford University
 - A Chinese geophysicist and geoscience enthusiast
 - A proud father, amateur photographer, reader, ...
 - Inquisitive, conscientious, cooperative, convivial, ...
@@ -16,7 +16,7 @@ title: About Me
 
 ### Education
 
-- **Present**: Ph.D. in Geophysics,
+- **2022**: Ph.D. in Geophysics,
   [University of Houston](https://uh.edu/nsm/earth-atmospheric/), Houston, USA
 - **2018**: M.S. in Geology,
   [Northwest University](https://www.nwu.edu.cn/), Xi'an, China
@@ -27,7 +27,10 @@ title: About Me
 
 ### Professional Appointments
 
-- **2018/08–present**: Research Assistant,
+- **2023/01–present**: Postdoctoral Research Fellow,
+  [Stanford University](https://sustainability.stanford.edu/), Stanford, USA
+
+- **2018/08–2022/12**: Research Assistant,
   [University of Houston](https://uh.edu/nsm/earth-atmospheric/), Houston, USA
 
 ---
@@ -41,7 +44,7 @@ title: About Me
 ### Awards & Honors
 
 #### University of Houston
-
+- **2022:** [Dan E. Wells Outstanding Dissertation Award](https://uh.edu/nsm/earth-atmospheric/news-events/stories/2022/1219-dissertation-award.php)
 - **2022:** Outstanding Graduate Work in Geophysics (\$1,250)
 - **2021:** Student Travel Award (\$1,000)
 - **2020-2021:** Outstanding Academic Achievement (\$700*2)
@@ -65,8 +68,9 @@ title: About Me
 ### Professional Service \& Outreach
 
 #### Peer Reviewer
+- **2023-present**: [Geophysical Prospecting](https://onlinelibrary.wiley.com/journal/13652478)<sup>1</sup>
 - **2022-present**: [Geocarto International](https://www.tandfonline.com/journals/tgei20)<sup>1</sup> and [SEG Conference Proceeding](https://seg.org/)<sup>1</sup>
-- **2021-present**: [Geophysics](https://library.seg.org/journal/gpysa7)<sup>3</sup>, [Geophysical Journal International](https://academic.oup.com/gji)<sup>1</sup>, [IEEE Transactions on Geoscience and Remote Sensing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36)<sup>13</sup> and [Acta Geophysica](https://www.springer.com/journal/11600)<sup>3</sup>
+- **2021-present**: [Geophysics](https://library.seg.org/journal/gpysa7)<sup>6</sup>, [Geophysical Journal International](https://academic.oup.com/gji)<sup>1</sup>, [IEEE Transactions on Geoscience and Remote Sensing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36)<sup>17</sup> and [Acta Geophysica](https://www.springer.com/journal/11600)<sup>3</sup>
 
 #### Conference Session Chair
 - **2022**: Session Chair for GM 1: Inversion Insights at IMAGE Annual Meeting, Houston, Texas, USA

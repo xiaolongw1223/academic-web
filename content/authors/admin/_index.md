@@ -6,18 +6,19 @@ title: "Xiaolong Wei"
 superuser: true
 
 # Role/position
-role: Ph.D. student, Research Assistant
+role: Postdoctoral Research Fellow
 
 # Organizations/Affiliations
 organizations:
-- name: "University of Houston"
-  url: https://uh.edu/nsm/earth-atmospheric/
+- name: "Stanford University"
+  url: https://sustainability.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am pursuing my Ph.D. degree in Geophysics at University of Houston
+bio: I am a postdoctoral scholar at Stanford Mineral-X .
 
 # # Interests to show in About widget
 # interests:
+# - Critical Mineral Exploration
 # - Joint Inversion
 # - Uncertainty Analysis
 # - Geology Differentiation
@@ -28,7 +29,7 @@ bio: I am pursuing my Ph.D. degree in Geophysics at University of Houston
 #   courses:
 #   - course: Ph.D. in Geophysics
 #     institution: University of Houston, USA
-#     year: Present
+#     year: 2022
 #   - course: M.S. in Geology
 #     institution: Northwest University, Xi'an, China
 #     year: 2018
@@ -70,32 +71,22 @@ email: ""
 highlight_name: true
 ---
 
-I am a geoscience enthusiast interested in integrated Earth modeling and uncertainty analysis. I am pursuing my Ph.D. degree in Geophysics advised by Dr. [Jiajia Sun](https://sites.google.com/view/jiajiasun) at University of Houston.
+I am a postdoctoral research fellow in the department of Earth and Planetary Sciences at Stanford University. I am a member of the [Stanford Mineral-X](https://mineralx.sites.stanford.edu/). 
+
+As the global energy sector is shifting from fossil fuels to renewable energy sources, the demand for critical minerals (e.g., lithium, nickel, cobalt and copper) is projected to increase dramatically in the next decades, because of their uses in the manufacture of mobile phones, flat screen monitors, solar wind turbines, electrical vehicles, etc. It is, therefore, imperative to keep finding more mineral resources to keep up with the rapidly increasing demand. My research focuses on addressing significant challenges associated with critical mineral exploration, and leading to a step change in the discovery of new mineral deposits.
+
+I am currently working with Prof. [Jef Caers](https://profiles.stanford.edu/jef-caers) on exploring nickel, cobalt, and copper resources as well as quantifying the uncertainties of mineral deposits in the Mufulira area of Zambia using geochemical and geophysical measurements.
+
+Before joining Stanford, I received my Ph.D. in geophysics advised by Prof. [Jiajia Sun](https://sites.google.com/view/jiajiasun) at University of Houston in 2022. My doctoral dissertation has made innovative contributions to airborne gravity and magnetic methods of exploring minerals. I developed effective methods to analyze the spatial variabilities of geological units and the uncertainties of geophysical (joint) inversions.
+
+I have extensive experience with real field case studies. I have explored for niobium in the Elk Creek, Nebraska, metagabbro in the north-east Iowa, diamond in the Northwest Territories, copper-gold in the QUEST, British Columbia, and nickel-cobalt-copper in the Mufulira, Zambia.
 
 <!-- <br> -->
 
-With a burgeoning human population, growing needs for natural resources as well as concerns about global climate changes and natural hazards, a sustainable management of our planet has drawn considerable attention over the years. Integrating multiple geoscientific observations is one of the practical ways to better comprehend the Earth system. Around the theme of integrated Earth modeling, my current research interests include:
+Around the theme of critical mineral exploration, my research interests include:
 
 a. Geophysical separate and joint inversions\
-b. Uncertainty analysis of determinsitc and stochastic inverse problems\
-c. Geology differentiation and natural resources explorations\
-d. Deep learning algorithms applied to geophysical and/or geological interpretations
+b. Uncertainty analysis\
+c. Decision driven geophysics\
+d. Geology differentiation
 
-<!-- **Methodology Research**: a. Joint Inversion, b. Uncertainty Analysis, c. Geology Differentiation
-
-**Application Research**: a. Airborne Geophysics, b. Natural Resources Exploration, c. Machine/Deep Learning -->
-
-<!-- | **Methodology Research** | &nbsp;&nbsp;&nbsp; | **Application Research**      |
-| ------------------------ | ------------------ | ----------------------------- |
-| Joint Inversion          |                    | Airborne Geophysics           |
-| Uncertainty Analysis     |                    | Natural Resources Exploration |
-| Geology Differentiation  |                    | Machine/Deep Learning         | -->
-
-
-<!-- I am pursuing my Ph.D. degree in geophysics advised by Dr. [Jiajia Sun](https://sites.google.com/view/jiajiasun) in the [Department of Earth and Atmospheric Sciences](https://uh.edu/nsm/earth-atmospheric/) at University of Houston. I obtained my M.S. in geology in 2018 at [Northwest University](https://www.nwu.edu.cn/), Xi'an, China, and B.S. in geophysics in 2015 at [China University of Geosciences](https://www.cugb.edu.cn/) in Beijing.
-
-With a burgeoning human population, growing needs for natural resources as well as concerns about global climate changes and natural hazards, a sustainable management of our planet has drawn considerable attention over the years. Integrating multiple geoscientific observations is one of the practical ways to better comprehend the Earth system. My research interests resolve around the theme of integrated Earth modeling and uncertainty analysis to investigate, understand and monitor various subsurface scenarios. My research interdisciplinarily utilizes, though by far not all, optimization, Monte Carlo, geostatistics, pattern recognition and mineralogy. I am currently working on the 3D Monte Carlo inversion and [critical mineral](https://www.usgs.gov/news/national-news-release/us-geological-survey-releases-2022-list-critical-minerals#:~:text=The%20Energy%20Act%20of%202020%20defines%20a%20%E2%80%9Ccritical%20mineral%E2%80%9D%20as,supply%20chain%20vulnerable%20to%20disruption.) exploration using potential field (i.e., gravity, gradiometry and magnetic) and petrophysical (i.e., rock samples and drillhole) data.
-
-**Methodology Research:** a. Joint Inversion, b. Uncertainty Analysis, c. Geology Differentiation
-
-**Application Research:** a. Airborne Geophysics, b. Natural Resources Exploration, c. Machine/Deep Learning -->

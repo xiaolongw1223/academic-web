@@ -8,6 +8,12 @@ header:
 ---
 
 ### 2022
+- **12/22**:
+  Xiaolong won the Fall 2022 [Dan E. Wells Outstanding Dissertation Award](https://uh.edu/nsm/earth-atmospheric/news-events/stories/2022/1219-dissertation-award.php)! The recipient receives an award of $1,000 and is recognized at the Commencement ceremony.
+
+- **10/22**:
+  Xiaolong successfully defended his Ph.D. dissertation!!!
+
 - **07/22**:
   Xiaolong's [paper](https://library.seg.org/doi/abs/10.1190/geo2021-0833.1) was nominated by GEOPHYSICS editors to be highlighted in “Geophysics Bright Spots” in The Leading Edge!
 
