@@ -25,7 +25,7 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: xwei7@uh.edu
+  email: xwei2@stanford.edu
   # address:
   #   street: 450 Serra Mall
   #   city: Stanford
