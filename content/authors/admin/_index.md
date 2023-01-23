@@ -79,7 +79,7 @@ I am currently working with Prof. [Jef Caers](https://profiles.stanford.edu/jef-
 
 Before joining Stanford, I received my Ph.D. in geophysics advised by Prof. [Jiajia Sun](https://sites.google.com/view/jiajiasun) at University of Houston in 2022. My doctoral dissertation has made innovative contributions to airborne gravity and magnetic methods of exploring minerals. I developed effective methods to analyze the spatial variabilities of geological units and the uncertainties of geophysical (joint) inversions.
 
-I have extensive experience with real field case studies. I have explored for niobium in the Elk Creek, Nebraska, metagabbro in the north-east Iowa, diamond in the Northwest Territories, copper-gold in the QUEST, British Columbia, and nickel-cobalt-copper in the Mufulira, Zambia.
+I have extensive experience with real field case studies. I have explored for niobium in the Elk Creek, Nebraska, metagabbro in the north-east Iowa, diamond in the Northwest Territories, copper-gold in the Quest, British Columbia, and nickel-cobalt-copper in the Mufulira, Zambia.
 
 <!-- <br> -->
 
