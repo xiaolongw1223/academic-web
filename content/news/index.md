@@ -8,7 +8,7 @@ header:
 ---
 
 ### 2023
-- **09/30**:
+- **09/01**:
   Xiaolong attended IMAGE 2023 Conference in Houston, giving an invited oral presentation in Post-Convention Workshop!
 
 - **06/20**:

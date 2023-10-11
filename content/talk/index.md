@@ -14,7 +14,7 @@ header:
 ---
 
 ### 2023
-**09/30, IMAGE 2023, Post-Convention Workshop W7, Houston:**
+**09/01, IMAGE 2023, Post-Convention Workshop W7, Houston:**
 Uncertainty quantification of the stratigraphic model conditioned on airborne geophysics, geochemistry, and drillholes
 
 **07/17, International Union of Geodesy and Geophysic (IUGG), Berlin:**

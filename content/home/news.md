@@ -50,7 +50,7 @@ subtitle = '[SEE MORE NEWS <i class="fa fa-angle-double-right"></i>](/news/)'
  css_class = ""
 +++
 
-- **09/30/2023**:
+- **09/01/2023**:
   Xiaolong attended IMAGE 2023 Conference in Houston, giving an invited oral presentation in Post-Convention Workshop!
 
 - **01/08/2023**:
