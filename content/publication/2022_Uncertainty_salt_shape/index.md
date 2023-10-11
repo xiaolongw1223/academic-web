@@ -67,7 +67,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- Quantifying_uncertainty_of_salt_body_shapes
+- Geometry_inversion_and_uncertainty_quantification
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
