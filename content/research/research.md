@@ -26,20 +26,16 @@ subtitle = ""
     tag = "*"
 
   [[content.filter_button]]
-    name = "Joint Inversion"
-    tag = "joint"
+    name = "Separate/Joint Inversion"
+    tag = "inversion"
 
   [[content.filter_button]]
-    name = "Uncertainty Analysis"
+    name = "Uncertainty Quantification"
     tag = "uncertainty"
 
   [[content.filter_button]]
-    name = "Mineral Exploration"
-    tag = "MinEx"
-
-  [[content.filter_button]]
-    name = "Geology Differentiation"
-    tag = "differentiation"
+    name = "Geoscience Data Integration"
+    tag = "integration"
 
   [[content.filter_button]]
     name = "Deep Learning"

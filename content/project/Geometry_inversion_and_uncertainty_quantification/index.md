@@ -1,9 +1,10 @@
 ---
-title: Multi-salt reconstruction
-summary: We developed a new method to recover multiple separately distributed salt bodies
+title: Geometry inversion and uncertainty quantification
+summary: Recovering the shape of subsurface anomalous bodies and quantifying geometrical uncertainties
 tags:
+- inversion
 - uncertainty
-date: "2022-06-01T00:00:00Z"
+date: "2022-01-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -32,8 +33,8 @@ slides: ""
 ---
 
 ### Figure Caption
-The recovered mean model without using any constraint.
+The recovered 2D SEG-EAGE salt models without (a) and with (b) constraint. The reconstructed Sigsbee salt models without (c) and with (d) constraint.
 
 
 ### Research Summary
-Ongoing research
+We developed an efficient 3D trans-dimensional Monte Carlo framework for reconstructing the spatial geometry of an anomalous body using gravity data. The proposed framework can also quantify the uncertainty of the shape of an anomalous body recovered from geophysical measurements.
