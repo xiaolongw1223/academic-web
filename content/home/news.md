@@ -50,6 +50,12 @@ subtitle = '[SEE MORE NEWS <i class="fa fa-angle-double-right"></i>](/news/)'
  css_class = ""
 +++
 
+- **09/30/2023**:
+  Xiaolong attended IMAGE 2023 Conference in Houston, giving an invited oral presentation in Post-Convention Workshop W7!
+
+- **06/20/2023**:
+  Xiaolong attended inaugural [Stanford Mineral-X Symposium](https://mineralx.stanford.edu/launch-symposium)! 
+
 - **12/17/2022**:
   Xiaolong won the Fall 2022 [Dan E. Wells Outstanding Dissertation Award](https://uh.edu/nsm/earth-atmospheric/news-events/stories/2022/1219-dissertation-award.php)!
 
@@ -64,9 +70,6 @@ subtitle = '[SEE MORE NEWS <i class="fa fa-angle-double-right"></i>](/news/)'
 
 - **xx/xx/2022**:
   Xiaolong and his best half - Yuteng were blessed with the arrival of their first baby!
-
-- **10/05/2021**:
-  Xiaolong was one of the three recipients of the inaugural [EAS Student Research Grant](https://uh.edu/nsm/earth-atmospheric/news-events/stories/2021/1011-student-research.php)!
 
 - **05/29/2021**:
   Xiaolong was awarded SEG [John R. Butler Jr. Scholarship](https://seg.org/Education/Student/Student-Opportunities/Scholarships/List-of-scholarship-recipients)!

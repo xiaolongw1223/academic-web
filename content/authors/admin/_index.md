@@ -86,7 +86,7 @@ I have extensive experience with real field case studies. I have explored for ni
 Around the theme of critical mineral exploration, my research interests include:
 
 a. Geophysical separate and joint inversions\
-b. Uncertainty analysis\
-c. Decision driven geophysics\
-d. Geology differentiation
+b. Uncertainty quantification\
+c. Geoscience data integration\
+d. Deep learning for geoscience
 
