@@ -73,6 +73,8 @@ title: About Me
 - **2021-present**: [Geophysics](https://library.seg.org/journal/gpysa7)<sup>12</sup>, [Geophysical Journal International](https://academic.oup.com/gji)<sup>3</sup>, [IEEE Transactions on Geoscience and Remote Sensing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36)<sup>24</sup> and [Acta Geophysica](https://www.springer.com/journal/11600)<sup>3</sup>
 
 #### Conference Session Chair
+- **2023**: Session Co-convener: Advancing mineral exploration and responsible mining for energy transitions, AGU, San Franciscon, California, USA
+- **2023**: Session Chair for MME 1: Mineral Exploration: Geophysics 1 at IMAGE Annual Meeting, Houston, Texas, USA
 - **2022**: Session Chair for GM 1: Inversion Insights at IMAGE Annual Meeting, Houston, Texas, USA
 - **2021**: Session Chair for MG P1: New Methods and Case Histories 1 at IMAGE Annual Meeting (SEG and AAPG joint annual meeting), Denver, Colorado, USA
 
