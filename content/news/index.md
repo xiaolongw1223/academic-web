@@ -7,6 +7,17 @@ header:
   image: ""
 ---
 
+### 2023
+- **09/30**:
+  Xiaolong attended IMAGE 2023 Conference in Houston, giving an invited oral presentation in Post-Convention Workshop!
+
+- **06/20**:
+  Xiaolong attended inaugural [Stanford Mineral-X Symposium](https://mineralx.stanford.edu/launch-symposium)! 
+
+- **01/08**:
+  Xiaolong has joined Stanford Doerr School of Sustainability as a postdoc, affiliated with Stanford [Mineral-X](https://mineralx.stanford.edu/) and [SCERF](https://scerf.stanford.edu/). 
+
+
 ### 2022
 - **12/22**:
   Xiaolong won the Fall 2022 [Dan E. Wells Outstanding Dissertation Award](https://uh.edu/nsm/earth-atmospheric/news-events/stories/2022/1219-dissertation-award.php)! The recipient receives an award of $1,000 and is recognized at the Commencement ceremony.
