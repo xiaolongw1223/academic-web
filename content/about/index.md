@@ -68,9 +68,9 @@ title: About Me
 ### Professional Service \& Outreach
 
 #### Peer Reviewer
-- **2023-present**: [Geophysical Prospecting](https://onlinelibrary.wiley.com/journal/13652478)<sup>1</sup>
+- **2023-present**: [Geophysical Prospecting](https://onlinelibrary.wiley.com/journal/13652478)<sup>3</sup>, [Soild Earth](https://www.solid-earth.net/)<sup>2</sup>
 - **2022-present**: [Geocarto International](https://www.tandfonline.com/journals/tgei20)<sup>1</sup> and [SEG Conference Proceeding](https://seg.org/)<sup>1</sup>
-- **2021-present**: [Geophysics](https://library.seg.org/journal/gpysa7)<sup>6</sup>, [Geophysical Journal International](https://academic.oup.com/gji)<sup>1</sup>, [IEEE Transactions on Geoscience and Remote Sensing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36)<sup>17</sup> and [Acta Geophysica](https://www.springer.com/journal/11600)<sup>3</sup>
+- **2021-present**: [Geophysics](https://library.seg.org/journal/gpysa7)<sup>12</sup>, [Geophysical Journal International](https://academic.oup.com/gji)<sup>3</sup>, [IEEE Transactions on Geoscience and Remote Sensing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36)<sup>24</sup> and [Acta Geophysica](https://www.springer.com/journal/11600)<sup>3</sup>
 
 #### Conference Session Chair
 - **2022**: Session Chair for GM 1: Inversion Insights at IMAGE Annual Meeting, Houston, Texas, USA
