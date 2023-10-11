@@ -88,5 +88,5 @@ Around the theme of critical mineral exploration, my research interests include:
 a. Geophysical separate and joint inversions\
 b. Uncertainty quantification\
 c. Geoscience data integration\
-d. Deep learning for geoscience
+d. Deep learning for geosciences
 

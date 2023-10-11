@@ -38,7 +38,7 @@ subtitle = ""
     tag = "integration"
 
   [[content.filter_button]]
-    name = "Deep Learning"
+    name = "Deep Learning for geosciences"
     tag = "learning"
 
 [design]
