@@ -62,9 +62,6 @@ subtitle = '[SEE MORE NEWS <i class="fa fa-angle-double-right"></i>](/news/)'
 - **10/31/2022**:
   Xiaolong successfully defended his Ph.D. dissertation!!!
 
-- **07/22/2022**:
-  Xiaolong's [paper](https://library.seg.org/doi/abs/10.1190/geo2021-0833.1) was nominated by GEOPHYSICS editors to be highlighted in “Geophysics Bright Spots” in The Leading Edge!
-
 - **06/10/2022**:
   Xiaolong has been awarded the SEG Lucien LaCoste Scholarship for \$5,305.12!
 
