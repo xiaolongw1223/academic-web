@@ -41,6 +41,10 @@ subtitle = ""
     name = "Deep Learning for geosciences"
     tag = "learning"
 
+  [[content.filter_button]]
+    name = "Geophysical data acquisition"
+    tag = "data"
+
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "1"
