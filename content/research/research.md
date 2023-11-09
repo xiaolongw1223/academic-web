@@ -26,19 +26,19 @@ subtitle = ""
     tag = "*"
 
   [[content.filter_button]]
-    name = "Separate/Joint Inversion"
+    name = "Separate/joint inversion"
     tag = "inversion"
 
   [[content.filter_button]]
-    name = "Uncertainty Quantification"
+    name = "Uncertainty quantification"
     tag = "uncertainty"
 
   [[content.filter_button]]
-    name = "Geoscience Data Integration"
+    name = "Data integration"
     tag = "integration"
 
   [[content.filter_button]]
-    name = "Deep Learning for geosciences"
+    name = "Deep learning for geosciences"
     tag = "learning"
 
   [[content.filter_button]]
