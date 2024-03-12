@@ -79,7 +79,7 @@ I am currently working with Prof. [Jef Caers](https://profiles.stanford.edu/jef-
 
 Before joining Stanford, I received my Ph.D. in geophysics advised by Prof. [Jiajia Sun](https://sites.google.com/view/jiajiasun) at University of Houston in 2022. My doctoral dissertation has made innovative contributions to airborne gravity and magnetic methods of exploring minerals. I developed effective methods to analyze the spatial variabilities of geological units and the uncertainties of geophysical (joint) inversions.
 
-I have extensive experience with real field case studies. I have explored for diverse resources in the Elk Creek, Nebraska, north-east Iowa, Northwest Territories, Quest, British Columbia, and Mufulira, Zambia.
+I have extensive experience with real field case studies. I have explored diverse resources in the Elk Creek, Nebraska, north-east Iowa, Northwest Territories, Quest, British Columbia, and Mufulira, Zambia.
 
 <!-- <br> -->
 
