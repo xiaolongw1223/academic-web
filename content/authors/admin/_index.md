@@ -73,13 +73,13 @@ highlight_name: true
 
 I am a postdoctoral research fellow in the department of Earth and Planetary Sciences at Stanford University. I am a member of the [Stanford Mineral-X](https://mineralx.sites.stanford.edu/). 
 
-As the global energy sector is shifting from fossil fuels to renewable energy sources, the demand for critical minerals (e.g., lithium, nickel, cobalt and copper) is projected to increase dramatically in the next decades, because of their uses in the manufacture of mobile phones, flat screen monitors, solar wind turbines, electrical vehicles, etc. It is, therefore, imperative to keep finding more mineral resources to keep up with the rapidly increasing demand. My research focuses on addressing significant challenges associated with critical mineral exploration, and leading to a step change in the discovery of new mineral deposits.
+As the global energy sector is shifting from fossil fuels to renewable energy sources, the demand for minerals is projected to increase dramatically in the next decades, because of their uses in the manufacture of mobile phones, flat screen monitors, solar wind turbines, electrical vehicles, etc. It is, therefore, imperative to keep finding more mineral resources to keep up with the rapidly increasing demand. My research focuses on addressing significant challenges associated with mineral exploration, and leading to a step change in the discovery of new mineral deposits.
 
-I am currently working with Prof. [Jef Caers](https://profiles.stanford.edu/jef-caers) on exploring nickel, cobalt, and copper resources as well as quantifying the uncertainties of mineral deposits in the Mufulira area of Zambia using geochemical and geophysical measurements.
+I am currently working with Prof. [Jef Caers](https://profiles.stanford.edu/jef-caers) on exploring mineral resources as well as quantifying the uncertainties of mineral deposits using geological, geochemical and geophysical measurements.
 
 Before joining Stanford, I received my Ph.D. in geophysics advised by Prof. [Jiajia Sun](https://sites.google.com/view/jiajiasun) at University of Houston in 2022. My doctoral dissertation has made innovative contributions to airborne gravity and magnetic methods of exploring minerals. I developed effective methods to analyze the spatial variabilities of geological units and the uncertainties of geophysical (joint) inversions.
 
-I have extensive experience with real field case studies. I have explored for niobium in the Elk Creek, Nebraska, metagabbro in the north-east Iowa, diamond in the Northwest Territories, copper-gold in the Quest, British Columbia, and nickel-cobalt-copper in the Mufulira, Zambia.
+I have extensive experience with real field case studies. I have explored for diverse resources in the Elk Creek, Nebraska, north-east Iowa, Northwest Territories, Quest, British Columbia, and Mufulira, Zambia.
 
 <!-- <br> -->
 
