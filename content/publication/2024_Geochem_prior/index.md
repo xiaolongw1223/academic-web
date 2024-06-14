@@ -5,20 +5,21 @@ title: "Constructing Priors for Geophysical Inversions Constrained by Surface an
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
+
 - admin
 - Zhen Yin
 - Celine Scheidt
 - Kris Darnell
 - Lijing Wang
-- Jef Caers 
+- Jef Caers
 
 # # Author notes (optional)
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2024-12-01T00:00:00Z"
-# doi: "10.1007/s10712-024-09843-x"
+date: "2024-06-010T00:00:00Z"
+doi: "10.1007/s10712-024-09843-x"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "" #"2022-04-01T00:00:00Z"
@@ -69,7 +70,6 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-
 projects:
 - Prior_model_construction
 
