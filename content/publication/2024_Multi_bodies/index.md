@@ -1,5 +1,5 @@
 ---
-title: "Quantifying uncertainty of salt body shapes recovered from gravity data using trans-dimensional Markov chain Monte Carlo sampling"
+title: "Reconstruction of multiple target bodies using trans-dimensional Bayesian inversion with different constraints"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -14,8 +14,8 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2023-06-01T00:00:00Z"
-doi: "10.1093/gji/ggac430"
+date: "2024-06-01T00:00:00Z"
+doi: "10.1109/TGRS.2024.3382106"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "" #"2022-04-01T00:00:00Z"
@@ -27,10 +27,10 @@ publishDate: "" #"2022-04-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Geophysical Journal International*"
+publication: "*IEEE Transactions on Geoscience and Remote Sensing*"
 publication_short: ""
 
-abstract: #Accurate delineation of salt body shapes is critical for hydrocarbon exploration. Various imaging methods based on seismic data have been developed. Due to the density contrast between salt and sedimentary rocks, gravity data have also been used as a de-risking tool to constrain the salt body shapes. However, quantifying uncertainties of the salt body shapes recovered from gravity data remains under-explored. Our goal is to understand and quantify how different constraint affect uncertainties of the salt body shapes reconstructed from gravity data. We adopt a trans-dimensional Markov chain Monte Carlo (MCMC) approach to explore the uncertainties. To address the computational challenges with MCMC sampling, we resort to two methods: sparse geometry parameterization and randomized  parallel tempering. The first employs a set of simple geometries to approximate the complex shapes of salt bodies, greatly reducing the number of parameters to be sampled and making the MCMC approach computationally feasible. The second serves to further improve the acceptance ratio and computational efficiency. To quantify the uncertainties of the recovered salt body shapes, we design several scenarios to simulate different constraints on the top boundary of salt bodies from seismic imaging. The results from different scenarios are compared to understand how uncertainties are reduced when stronger constraints are imposed. In addition, we investigate the effect of an uncertain salt density on the salt body reconstruction and the case of depth-varying densities in the sedimentary background. We apply our methods to the modified 2D SEG-EAGE and Sigsbee salt models and successfully quantify the uncertainties of the recovered salt body shapes in different scenarios.
+abstract: Geophysical geometry inversion aims to reconstruct the geometrical characteristics of subsurface target bodies, which is different from conventional inversion techniques that focus on subsurface physical properties (e.g., density and velocity). The published works on geometry inversion either focus on recovering one “optimal” model without considering uncertainty or are limited to situations where only a single anomalous body is sought when uncertainty is quantified. We aim to recover the geometries of multiple anomalous bodies and quantify their uncertainty in the trans-dimensional Bayesian framework. We adopt a sparse geometry parameterization strategy which allows approximating the shapes of anomalous bodies via a set of simple geometries (e.g., ellipses). To address the problem of multiple bodies in an area of study, we propose two strategies. The first strategy randomly samples a tuning parameter associated with the computation of the alpha shapes. In the second strategy, we devise two categories of geometries for sampling parent and child geometries. Each child geometry is assigned to one parent geometry, and various geometrical families represent the multiple target bodies. To understand the effects of multiple data constraints and structural constraints, we design several scenarios, where the borehole gravity and gravity gradient data serve as additional data constraints and seismic imaging provides the structural constraint on the top of target bodies. We apply our method to the modified Pluto salt model consisting of three salt bodies with drastically different shapes and volumes. The results demonstrate that our framework is capable of recovering the disconnected anomalous bodies while taking into account multiple data constraints as well as structural constraints.
 
 # Summary. An optional shortened abstract.
 summary: ""

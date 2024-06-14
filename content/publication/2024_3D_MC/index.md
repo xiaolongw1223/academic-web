@@ -15,7 +15,7 @@ authors:
 # - "Equal contribution"
 
 date: "2024-06-01T00:00:00Z"
-doi: "10.1093/gji/ggac430"
+doi: "10.1190/geo2023-0498.1"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "" #"2022-04-01T00:00:00Z"

@@ -1,21 +1,24 @@
 ---
-title: "Quantifying uncertainty of salt body shapes recovered from gravity data using trans-dimensional Markov chain Monte Carlo sampling"
+title: "Constructing Priors for Geophysical Inversions Constrained by Surface and Borehole Geochemistry"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Jiajia Sun
-- Mrinal K. Sen
+- Zhen Yin
+- Celine Scheidt
+- Kris Darnell
+- Lijing Wang
+- Jef Caers 
 
 # # Author notes (optional)
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2023-06-01T00:00:00Z"
-doi: "10.1093/gji/ggac430"
+date: "2024-12-01T00:00:00Z"
+doi: "10.1007/s10712-024-09843-x"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "" #"2022-04-01T00:00:00Z"
@@ -27,10 +30,10 @@ publishDate: "" #"2022-04-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Geophysical Journal International*"
+publication: "*Surveys in Geophysics*"
 publication_short: ""
 
-abstract: #Accurate delineation of salt body shapes is critical for hydrocarbon exploration. Various imaging methods based on seismic data have been developed. Due to the density contrast between salt and sedimentary rocks, gravity data have also been used as a de-risking tool to constrain the salt body shapes. However, quantifying uncertainties of the salt body shapes recovered from gravity data remains under-explored. Our goal is to understand and quantify how different constraint affect uncertainties of the salt body shapes reconstructed from gravity data. We adopt a trans-dimensional Markov chain Monte Carlo (MCMC) approach to explore the uncertainties. To address the computational challenges with MCMC sampling, we resort to two methods: sparse geometry parameterization and randomized  parallel tempering. The first employs a set of simple geometries to approximate the complex shapes of salt bodies, greatly reducing the number of parameters to be sampled and making the MCMC approach computationally feasible. The second serves to further improve the acceptance ratio and computational efficiency. To quantify the uncertainties of the recovered salt body shapes, we design several scenarios to simulate different constraints on the top boundary of salt bodies from seismic imaging. The results from different scenarios are compared to understand how uncertainties are reduced when stronger constraints are imposed. In addition, we investigate the effect of an uncertain salt density on the salt body reconstruction and the case of depth-varying densities in the sedimentary background. We apply our methods to the modified 2D SEG-EAGE and Sigsbee salt models and successfully quantify the uncertainties of the recovered salt body shapes in different scenarios.
+abstract: Prior model construction is a fundamental component in geophysical inversion, especially Bayesian inversion. The prior model, usually derived from available geological information, can reduce the uncertainty of model characteristics during the inversion. However, the prior geological data for inferring a prior distribution model are often limited in real cases. Our work presents a novel framework to create 3D geophysical prior models using soil geochemistry and borehole rock sample measurements. We focus on the Bayesian inversion, which enables encoding of knowledge and multiple non-geophysical data into the prior. The new framework developed in our research comprises three main parts, namely correlation analysis, prior model reconstruction, and Bayesian inversion. We investigate the correlations between surface and subsurface geochemical features, as well as the correlation between geochemistry and geophysics, using canonical correlation analysis for the surface and borehole geochemistry. Based on the resulting correlations, we construct the prior susceptibility model. The informed prior model is then tested using geophysical forward modeling and outlier detection methods. In this test, we aim to falsify the prior model, which happens when the model cannot predict the field geophysical observation. To obtain the posterior models, the reliable prior models are incorporated into a Bayesian inversion framework. Using a real case of exploration in the Central African Copperbelt, we illustrate the workflow of constructing the high-resolution 3D stratigraphic model conditioned on soil geochemistry, borehole data, and airborne geophysics.
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -66,8 +69,9 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-- Geometry_inversion_and_uncertainty_quantification
+
+#projects:
+#- Geometry_inversion_and_uncertainty_quantification
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
