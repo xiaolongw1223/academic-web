@@ -65,7 +65,7 @@ title: About Me
 - **2024-present**: [Near Surface Geophysics](https://onlinelibrary.wiley.com/journal/18730604), [Surveys in Geophysics](https://link.springer.com/journal/10712)
 - **2023-present**: [Geophysical Prospecting](https://onlinelibrary.wiley.com/journal/13652478), [Soild Earth](https://www.solid-earth.net/)
 - **2022-present**: [Geocarto International](https://www.tandfonline.com/journals/tgei20) and [SEG Conference Proceeding](https://seg.org/)
-- **2021-present**: [Geophysics](https://library.seg.org/journal/gpysa7), [Geophysical Journal International](https://academic.oup.com/gji), [IEEE Transactions on Geoscience and Remote Sensing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36)<sup>24</sup> and [Acta Geophysica](https://www.springer.com/journal/11600)
+- **2021-present**: [Geophysics](https://library.seg.org/journal/gpysa7), [Geophysical Journal International](https://academic.oup.com/gji), [IEEE Transactions on Geoscience and Remote Sensing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36) and [Acta Geophysica](https://www.springer.com/journal/11600)
 
 #### Conference Session Chair
 - **2023**: Session Co-convener: Advancing mineral exploration and responsible mining for energy transitions, AGU, San Franciscon, California, USA
